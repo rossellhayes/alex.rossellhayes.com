@@ -1,0 +1,98 @@
+---
+title: "Packages"
+listing:
+  contents:
+    - title: "and"
+      path: https://pkg.rossellhayes.com/and/
+      image: https://pkg.rossellhayes.com/and/reference/figures/logo.png?raw=TRUE
+      description: "Construct natural-language lists with internationalization in R"
+      date: "2022-07-18"
+      date-modified: "2025-02-25"
+      categories: [R]
+      
+    - title: "crossmap"
+      path: https://pkg.rossellhayes.com/crossmap/
+      image: https://pkg.rossellhayes.com/crossmap/reference/figures/logo.png?raw=TRUE
+      description: "Apply functions to all combinations of list elements"
+      date: "2020-09-01"
+      date-modified: "2025-04-23"
+      categories: [R]
+      
+    - title: "fauxnaif"
+      path: https://fauxnaif.rossellhayes.com/
+      image: https://fauxnaif.rossellhayes.com/reference/figures/logo.png?raw=TRUE
+      description: "Convert values to NA"
+      date: "2020-03-01"
+      date-modified: "2022-08-12"
+      categories: [R]
+      
+    - title: "fracture"
+      path: https://fracture.rossellhayes.com/
+      image: https://fracture.rossellhayes.com/reference/figures/logo.png?raw=TRUE
+      description: "Convert decimals to fractions"
+      date: "2020-09-03"
+      date-modified: "2022-05-21"
+      categories: [R]
+      
+    - title: "incase"
+      path: https://pkg.rossellhayes.com/incase/
+      image: https://pkg.rossellhayes.com/incase/reference/figures/logo.png?raw=TRUE
+      description: "Pipe-friendly vector replacement with case statements"
+      date: "2020-09-15"
+      date-modified: "2025-07-23"
+      categories: [R]
+      
+    - title: "ipa"
+      path: https://github.com/rossellhayes/ipa
+      image: https://github.com/rossellhayes/ipa/raw/main/man/figures/logo.png?raw=TRUE
+      description: "Convert between phonetic alphabets"
+      date-modified: "2020-06-04"
+      categories: [R]
+      
+    - title: "nombre"
+      path: https://nombre.rossellhayes.com
+      image: https://nombre.rossellhayes.com/reference/figures/logo.png?raw=TRUE
+      description: "Number names"
+      date: "2020-05-25"
+      date-modified: "2022-05-23"
+      categories: [R]
+      
+    - title: "player"
+      path: https://pkg.rossellhayes.com/player/
+      image: https://pkg.rossellhayes.com/player/reference/figures/logo.png?raw=TRUE
+      description: "Play games in the R console"
+      date-modified: "2025-08-21"
+      categories: [R]
+      
+    - title: "plu"
+      path: https://pkg.rossellhayes.com/plu/
+      image: https://pkg.rossellhayes.com/plu/reference/figures/logo.png?raw=TRUE
+      description: "Dynamically pluralize phrases"
+      date: "2020-06-09"
+      date-modified: "2023-09-23"
+      categories: [R]
+      
+    - title: "stringstatic"
+      path: https://github.com/rossellhayes/stringstatic
+      image: https://github.com/rossellhayes/stringstatic/raw/main/man/figures/logo.png?raw=TRUE
+      description: "Dependency-free string operations"
+      date: "2023-03-09"
+      date-modified: "2023-07-12"
+      categories: [R]
+      
+    - title: "twenty48"
+      path: https://github.com/rossellhayes/twenty48
+      image: https://github.com/rossellhayes/twenty48/raw/main/man/figures/logo.png?raw=TRUE
+      description: "2048 in the R console"
+      date-modified: "2022-09-13"
+      categories: [R]
+      
+  sort: "date-modified desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  image-align: left
+page-layout: full
+title-block-banner: true
+---

@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Alex [Rossell Hayes]{.semibold}"
+  site-url: https://alex.rossellhayes.com
+  navbar:
+    right:
+      - text: Articles
+        href: articles.qmd
+      - text: Packages
+        href: packages.qmd
+      - text: Crosswords
+        href: crosswords.qmd
+      - text: Media
+        href: media.qmd
+      - text: "{{< iconify fa6-brands github >}}"
+        href: https://github.com/rossellhayes
+      - text: "{{< iconify fa6-brands bluesky >}}"
+        href: https://bsky.app/profile/alxrh.bsky.social
+      - text: "{{< iconify fa6-brands mastodon >}}"
+        href: https://rstats.me/@alxrh
+      - text: "{{< iconify fa6-brands orcid >}}"
+        href: https://orcid.org/0000-0001-9412-0457
+  page-footer: |
+    Fonts are [Jost*](https://indestructibletype.com/Jost.html) and
+      [[Besley*](https://indestructibletype.com/Besley.html)]{.besley} by
+      [indestructible type*](https://indestructibletype.com/Home.html)
+format:
+  html:
+    theme:
+      - litera
+      - theme.scss
+    header-includes: |
+      <link rel="stylesheet" href="https://indestructibletype.com/fonts/Besley.css" type="text/css" charset="utf-8" />
+      <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />

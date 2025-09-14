@@ -1,0 +1,139 @@
+---
+title: "Media coverage"
+listing:
+  contents:
+    - title: New York Times
+      subtitle: "Should 16-Year-Olds Be Allowed to Vote?"
+      author: Jeremy Engle
+      path: https://www.nytimes.com/2025/09/04/learning/should-16-year-olds-be-allowed-to-vote.html
+      image: https://static01.nyt.com/images/2025/08/10/fashion/16YEAROLDS-STYLES-01-qwhz/16YEAROLDS-STYLES-01-qwhz-superJumbo.jpg
+      date: "2025-09-04"
+      categories: [Mention, New York Times]
+      
+    - title: The Hill
+      subtitle: "Polls show broad opposition to gerrymandering, unless GOP or Dems do it first"
+      author: Jared Gans
+      path: https://thehill.com/homenews/state-watch/5478178-redistricting-battle-intensifies-summer/
+      image: https://thehill.com/wp-content/uploads/sites/2/2025/08/Redistricting_083025_AP_Eric-Gay.jpg
+      date: "2025-09-04"
+      categories: [Interview, The Hill]
+      
+    - title: Strength in Numbers
+      subtitle: "Support for partisan gerrymandering is growing"
+      author: G. Elliott Morris
+      path: https://www.gelliottmorris.com/p/voters-are-now-more-supportive-of?r=4cm0m&triedRedirect=true
+      image: https://substackcdn.com/image/fetch/$s_!BBFd!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe4b648c-aab6-4f58-968c-e2541687db41_1282x1064.png
+      date: "2025-08-31"
+      categories: [Mention, Strength in Numbers]
+      
+    - title: Strength in Numbers
+      subtitle: "Gerrymandering is unpopular. Shocker!"
+      author: G. Elliott Morris
+      path: https://www.gelliottmorris.com/p/gerrymandering-is-unpopular-shocker?r=4cm0m&triedRedirect=true
+      image: https://substackcdn.com/image/fetch/$s_!59XK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0fd898b0-f28b-4cc2-bd2e-69311574ff2e_1504x1068.png
+      date: "2025-08-10"
+      categories: [Mention, Strength in Numbers]
+      
+    - title: New York Times
+      subtitle: "They Are 16 and 17 Years Old, and They Want to Vote. Like, Now."
+      author: Jesse McKinley and Callie Holtermann
+      path: https://www.nytimes.com/2025/08/05/style/lower-voting-age-britain-us.html
+      image: https://static01.nyt.com/images/2025/08/10/fashion/16YEAROLDS-STYLES-01-qwhz/16YEAROLDS-STYLES-01-qwhz-superJumbo.jpg
+      date: "2025-08-05"
+      categories: [Mention, New York Times]
+      
+    - title: 104.5 WOKV
+      subtitle: "Americans Would Like to Raise the Driving Age . . . and Lower the Drinking Age"
+      author: Dex & Barbie T
+      path: https://www.wokv.com/entertainment/americans-would-like-raise-driving-age-lower-drinking-age/U2LXVQ7WOJADTPAQBYJ3DFDFPE/
+      image: https://cmg-cmg-rd-20056-prod.cdn.arcpublishing.com/resizer/v2/AJOPX2TTTVCJJJG3FFOLEWS6FE.jpeg?smart=true&auth=4446982dc2019cd28a4e9389a6b01ba64a21ce82d638ef17f8cf94bb4f4b879d
+      date: "2025-07-29"
+      categories: [Mention]
+      
+    - title: Oral Health Group
+      subtitle: "Timeline: YouGov polls show generational differences in wisdom teeth removal"
+      path: https://www.oralhealthgroup.com/dental-industry/timeline-yougov-polls-show-generational-differences-in-wisdom-teeth-removal-1003988021/
+      image: https://media.oralhealthgroup.com/uploads/2025/07/generational-divide.png
+      date: "2025-07-06"
+      categories: [Mention]
+      
+    - title: The Hill
+      subtitle: "Majority of Americans back sanctions on Russia, allies that purchase oil: Survey"
+      author: Ashleigh Fields
+      path: https://thehill.com/policy/international/5375130-russian-sanctions-oil-ukraine-survey/
+      image: https://thehill.com/wp-content/uploads/sites/2/2024/02/AP23295337822200-e1708708402110.jpg
+      date: "2025-06-28"
+      categories: [Mention, The Hill]
+      
+    - title: AS USA
+      subtitle: "New poll reveals the historical figures Americans want to see on US dollars and coins"
+      author: Maite Knorr-Evans
+      path: https://en.as.com/latest_news/new-poll-reveals-the-historical-figures-americans-want-to-see-on-us-dollars-and-coins-n/
+      image: https://img.asmedia.epimg.net/resizer/v2/IT33KEIJIMFEMWYK4QZDFULGHQ.jpg?auth=d6b13ec71b3eb73b2c77af86dd2905b4e1a46007cc063470b28adf6084315741
+      date: "2025-03-21"
+      categories: [Mention]
+      
+    - title: Snopes
+      subtitle: "Nearly 25% of Americans Believe Hitler Was a Good Person?"
+      author: Aleksandra Wrona
+      path: https://www.snopes.com/fact-check/hitler-good-person-poll/
+      image: https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2024/11/hitler_was_good_poll_feature_image.png
+      date: "2024-11-14"
+      categories: [Mention, Snopes]
+      
+    - title: The Hill
+      subtitle: "Most in new poll say campaigns should pay cities that host rallies"
+      author: Joanne Haner
+      path: https://thehill.com/homenews/campaign/4966031-poll-campaign-expenses-payments/
+      image: https://thehill.com/wp-content/uploads/sites/2/2024/10/Leading-Trump_103024_AP_JuliaDemareeNikhinson.jpg
+      date: "2024-11-01"
+      categories: [Mention, The Hill]
+      
+    - title: Newsweek
+      subtitle: "Most Americans Skeptical of What Schools Taught Them About Columbus: Poll"
+      author: Sophie Clark 
+      path: https://www.newsweek.com/americans-attitudes-christopher-columbus-education-poll-1968548
+      image: https://d.newsweek.com/en/full/2494583/columbus-statue-boston-2020.webp
+      date: "2024-10-14"
+      categories: [Mention, Newsweek]
+      
+    - title: The Hill
+      subtitle: "Most in new poll support celebrating Indigenous Peoples’ Day"
+      author: Juliann Ventura
+      path: https://thehill.com/homenews/4930317-poll-support-indigenous-peoples-day/
+      image: https://thehill.com/wp-content/uploads/sites/2/2023/10/Closer-Indigenous-Peoples-Day_100523_AP_Matt-Rourke.jpg
+      date: "2024-10-14"
+      categories: [Mention, The Hill]
+      
+    - title: Astral Codex Ten
+      subtitle: "Open Thread 349"
+      author: Scott Alexander
+      path: https://www.astralcodexten.com/p/open-thread-349
+      image: https://substackcdn.com/image/fetch/$s_!L08N!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F352e4f4b-222a-4bab-a1e4-0d4bc5ccc221_625x407.png
+      date: "2024-09-30"
+      categories: [Mention]
+      
+    - title: Retail Brew
+      subtitle: "Does Gen Z prefer short or long socks?"
+      author: Jeena Sharma
+      path: https://www.retailbrew.com/stories/2024/08/08/does-gen-z-prefer-short-or-long-socks
+      image: https://www.retailbrew.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbl383u0v%2Fproduction%2F94847973af9566bf42dafc996610f4b2eb108f67-7071x7071.jpg%3Fw%3D900%26h%3D900%26q%3D100%26fit%3Dmax%26auto%3Dformat%26dpr%3D2&w=1920&q=75
+      date: "2024-08-08"
+      categories: [Mention]
+      
+    - title: The State News
+      subtitle: "Do men really think about the Roman Empire? MSU experts, students weigh in"
+      author: Jack Williams
+      path: https://statenews.com/article/2023/10/do-men-really-think-about-the-roman-empire-msu-experts-students-weigh-in?ct=content_open&cv=cbox_latest
+      image: https://snworksceo.imgix.net/tsn/efe34102-5efd-4b03-9bbf-87061d280692.sized-1000x1000.jpg
+      date: "2023-10-03"
+      categories: [Mention]
+  
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

@@ -1,0 +1,150 @@
+---
+title: "Articles"
+listing:
+  contents:
+    - title: "Most Americans oppose military involvement in Venezuela"
+      path: https://today.yougov.com/politics/articles/52958-most-americans-oppose-military-involvement-in-venezuela-maduro-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Navy_GettyImages-179438899_copy.original.jpg
+      date: "2025-09-12"
+      categories: [Polling, Politics, Foreign policy]
+      
+    - title: "Concerns about Trump's age and health have grown since the start of his second term"
+      path: https://today.yougov.com/politics/articles/52933-concerns-about-trumps-age-and-health-have-grown-since-the-start-of-his-second-term
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2232048025.original.jpg
+      date: "2025-09-10"
+      categories: [Polling, Politics, Age]
+    
+    - title: "Few Americans want to take over Greenland — most oppose covert operations and military action"
+      path: https://today.yougov.com/politics/articles/52879-few-americans-want-to-take-over-greenland-most-oppose-covert-operations-military-action-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Greenland_GettyImages-2206689548_copy.original.jpg
+      date: "2025-08-31"
+      categories: [Polling, Politics, Foreign policy, Greenland]
+    
+    - title: "After Texas legislators passed redistricting bill, support rises for Democratic counter-gerrymandering"
+      path: https://today.yougov.com/politics/articles/52837-after-texas-legislators-passed-redistricting-bill-support-rises-for-democratic-counter-gerrymandering
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2230198335.original.jpg
+      date: "2025-08-27"
+      categories: [Polling, Politics, Gerrymandering]
+      
+    - title: "Few Americans support Texas Republicans' redistricting plan; opinions are split on the Democrats' move to stop it"
+      path: https://today.yougov.com/politics/articles/52756-few-americans-support-texas-republicans-redistricting-plan-gerrymandering-opinions-split-democratic-lawmakers-move-stop-it-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Texas_Redistricting_GettyImages-2228953492_copy.original.jpg
+      date: "2025-08-12"
+      categories: [Polling, Politics, Gerrymandering]
+    
+    - title: "Large majorities of Americans say gerrymandering is a major problem, unfair, and should be illegal"
+      path: https://today.yougov.com/politics/articles/52740-large-majorities-americans-say-gerrymandering-major-problem-unfair-should-be-illegal-redistricting-texas-california-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Gerrymandering_GettyImages-1138412200_copy.original.jpg
+      date: "2025-08-08"
+      categories: [Polling, Politics, Gerrymandering]
+      
+    - title: "Many Americans would like to raise the driving age and lower the drinking age"
+      path: https://today.yougov.com/society/articles/52671-many-americans-would-like-to-raise-the-driving-age-and-lower-the-drinking-age
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-802236882.original.jpg
+      date: "2025-07-28T14:21:00-04:00"
+      categories: [Polling, Age]
+    
+    - title: "Most Americans don’t want to lower the voting age, but they do want younger presidents"
+      path: https://today.yougov.com/politics/articles/52670-most-americans-dont-want-to-lower-the-voting-age-but-they-do-want-younger-presidents
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1588099130.original.jpg
+      date: "2025-07-28T12:31:00-04:00"
+      categories: [Polling, Politics, Age]
+    
+    - title: "Young American adults challenge the conventional wisdom on tooth removal"
+      path: https://today.yougov.com/society/articles/52483-young-american-adults-challenge-the-conventional-wisdom-on-tooth-removal
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1303223544.original.jpg
+      date: "2025-07-03"
+      categories: [Polling, Age]
+    
+    - title: "Most Americans support Russia sanctions; many support sanctioning countries that buy Russian oil"
+      path: https://today.yougov.com/politics/articles/52453-most-americans-support-russia-sanctions-many-support-sanctioning-countries-buy-russian-oil-gas-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Russia_Ukraine_war_GettyImages-1459651125_copy.original.jpg
+      date: "2025-06-27"
+      categories: [Polling, Politics, Foreign policy]
+      
+    - title: "Who would Americans like to see on their money?"
+      path: https://today.yougov.com/consumer/articles/51975-who-would-americans-like-to-see-on-their-money
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1327342315.original.jpg
+      date: "2025-04-08"
+      categories: [Polling, Money, History, Fun]
+      
+    - title: "More Americans want to drop the penny than to save it"
+      path: https://today.yougov.com/economy/articles/51865-more-americans-want-to-drop-the-penny-than-to-save-it
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1396258258.original.jpg
+      date: "2025-03-20"
+      categories: [Polling, Politics, Money]
+      
+    - title: "What do Americans think about immigrants? It depends on how you ask"
+      path: https://today.yougov.com/politics/articles/51846-what-americans-think-about-immigrants-depends-on-how-you-ask-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/immigration_GettyImages-1187191536_copy.original.jpg
+      date: "2025-03-18"
+      categories: [Polling, Politics, Methodology, Immigration]
+      
+    - title: "Support for women serving in military combat roles is widespread and growing"
+      path: https://today.yougov.com/politics/articles/51835-support-for-women-military-combat-roles-widespread-growing-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/women_in_military_GettyImages-1493024059_copy.original.jpg
+      date: "2025-03-17"
+      categories: [Polling, Politics, Gender]
+      
+    - title: "After the election, Americans say they would have been less likely to vote for other Democrats than Harris in a matchup with Trump"
+      path: https://today.yougov.com/politics/articles/50998-after-the-election-voters-less-likely-to-vote-for-other-democrats-than-harris
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2166913421.original.jpg
+      date: "2024-11-25"
+      categories: [Polling, Politics, Elections]
+      
+    - title: "Two-thirds of Americans say Hitler was completely bad; 20% think Trump would say the same"
+      path: https://today.yougov.com/politics/articles/50864-two-thirds-of-americans-say-hitler-was-completely-bad
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2181408266.original.jpg
+      date: "2024-10-31"
+      categories: [Polling, Politics, Elections, History]
+      
+    - title: "Americans think candidates should pay cities' costs of hosting their rallies"
+      path: https://today.yougov.com/politics/articles/50849-americans-think-candidates-should-pay-cities-costs-of-hosting-their-rallies
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2182002244.original.jpg
+      date: "2024-10-31"
+      categories: [Polling, Politics, Elections]
+      
+    - title: "Americans are increasingly concerned about Donald Trump’s age and fitness for office"
+      path: https://today.yougov.com/politics/articles/50808-americans-are-increasingly-concerned-about-donald-trumps-age-and-fitness-for-office
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2179409248.original.jpg
+      date: "2024-10-25"
+      categories: [Polling, Politics, Elections, Age]
+      
+    - title: "Has Leif Erikson come out of Christopher Columbus' shadow?"
+      path: https://today.yougov.com/society/articles/50683-has-leif-erikson-come-out-of-christopher-columbus-shadow
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-655082963.original.jpg
+      date: "2024-10-11T20:49:00-04:00"
+      categories: [Polling, Politics, Holidays, History, Greenland]
+      
+    - title: "Christopher Columbus and Columbus Day divide Americans"
+      path: https://today.yougov.com/society/articles/50681-christopher-columbus-and-columbus-day-divide-americans
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-169961077_lm03usQ.original.jpg
+      date: "2024-10-11T20:47:00-04:00"
+      categories: [Polling, Politics, Holidays, History]
+    
+    - title: "More Americans support federal observance of Indigenous Peoples’ Day than of Columbus Day"
+      path: https://today.yougov.com/society/articles/50682-more-americans-support-federal-observance-of-indigenous-peoples-day-than-columbus-day
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-859128590.original.jpg
+      date: "2024-10-11T20:46:00-04:00"
+      categories: [Polling, Politics, Holidays]
+      
+    - title: "What’s up with Gen Z’s socks?"
+      path: https://today.yougov.com/society/articles/50258-whats-up-with-gen-zs-socks
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-95589596.original.jpg
+      date: "2024-08-06"
+      categories: [Polling, Fun, Age]
+    
+    - title: "Men do spend more time than women thinking about the Roman Empire — and World War II"
+      path: https://today.yougov.com/politics/articles/47481-men-women-thinking-about-the-roman-empire-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/roman-empire.original.jpg
+      date: "2023-10-03"
+      categories: [Polling, Fun, History, Gender]
+  
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

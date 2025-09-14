@@ -1,0 +1,31 @@
+---
+title: "Alex [Rossell Hayes]{.semibold}"
+image: alex_rossell_hayes_headshot.jpg
+about:
+  template: solana
+  links:
+    - text: "{{< iconify fa6-brands github >}} GitHub"
+      href: https://github.com/rossellhayes
+    - text: "{{< iconify fa6-brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/alxrh.bsky.social
+    - text: "{{< iconify fa6-brands mastodon >}} Mastodon"
+      href: https://rstats.me/@alxrh
+    - text: "{{< iconify fa6-brands orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-9412-0457
+
+---
+
+Senior Data Scientist, [YouGov America](https://today.yougov.com/)
+
+Crossword Constructor, [Lil AVCX](https://avxwords.com/)
+
+## Education
+
+**PhD** Political Science  
+University of California, Los Angeles
+
+**MA** Political Science  
+University of California, Los Angeles
+
+**BA** Political Science, Economics, and Public Policy  
+Hofstra University, Hempstead, New York

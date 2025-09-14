@@ -1,0 +1,164 @@
+/*-- scss:rules --*/
+
+div.quarto-post a:hover,
+.quarto-listing-category .category:hover,
+div.quarto-post .listing-categories .listing-category:hover {
+  color: rgb(55.2, 104, 188.8);
+}
+
+.semibold {
+  font-weight: 500;
+}
+
+h1 .semibold {
+  font-weight: 600;
+}
+
+body {
+  font-family: Jost;
+  font-feature-settings: "ss01";
+}
+
+p {
+  font-family: "Besley";
+  font-feature-settings: normal;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+h2 {
+  font-weight: 500;
+  padding-top: 0.5rem;
+  padding-bottom: 0;
+}
+
+h5 {
+  font-weight: 600;
+}
+
+.quarto-title-banner .quarto-title .title {
+  font-weight: 500;
+}
+
+div.quarto-post {
+  margin-bottom: 0.75em;
+  padding-bottom: 0.75em;
+}
+
+div.quarto-post .listing-categories,
+div.quarto-grid-item .listing-categories {
+  padding-top: 5px;
+}
+
+.quarto-grid-item .card-attribution {
+  text-transform: none;
+  font-weight: 400;
+}
+
+.quarto-post.image-left {
+  gap: 2em;
+}
+
+.quarto-post.image-left .thumbnail img {
+  object-fit: contain;
+  max-height: 5lh;
+  max-height: 4lh;
+  margin-top: 0;
+}
+
+.quarto-post.image-left .thumbnail {
+  flex-basis: 4.33lh;
+  flex-basis: 3.46lh;
+}
+
+.quarto-post.image-left .body {
+  flex-basis: 59%;
+  display: flex;
+  flex-direction: column
+}
+
+.quarto-post.image-left .body .listing-categories {
+  order: 3;
+}
+
+.quarto-post.image-left .body .listing-description {
+  margin: 0;
+}
+
+.quarto-post.image-left .body .listing-description p {
+  margin: 0;
+}
+
+.quarto-post.image-left .metadata {
+  flex-basis: 26%;
+  text-align: right;
+}
+
+@media (max-width: 767.98px) {
+  .quarto-post.image-left {
+    gap: 2em;
+    flex-direction: row;
+  }
+
+  .quarto-post .thumbnail {
+    order: 1;
+  }
+
+  .quarto-post .body {
+    order: 2;
+  }
+
+  div.image-left .metadata {
+    display: none;
+  }
+}
+
+.about-entity {
+  gap: 1em;
+}
+
+.entity-contents {
+  order: 2;
+}
+
+.about-links {
+  order: 99;
+}
+
+@media (min-width: 992px) {
+  div.quarto-about-solana .about-entity .about-link {
+    padding: 0;
+    border: none;
+  }
+}
+
+@media (max-width: 991.98px) {
+  div.quarto-about-solana .about-entity {
+    flex-direction: column;
+    text-align: left;
+  }
+
+  div.quarto-about-solana .about-entity .about-links {
+    flex-direction: row;
+    column-gap: .8em;
+    row-gap: 15px;
+    flex-wrap: wrap;
+  }
+
+  div.quarto-about-solana .about-entity .about-link {
+    font-size: .8em;
+    padding: 0;
+    border: none;
+    tex-align: left;
+  }
+}
+
+footer p {
+  font-family: Jost;
+}
+
+.besley {
+  font-family: "Besley";
+}

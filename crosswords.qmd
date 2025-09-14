@@ -1,0 +1,37 @@
+---
+title: "Crosswords"
+listing:
+  contents:
+    - title: "Counter Arguments"
+      path: https://avxwords.com/puzzles/1891/
+      image: crossword_grids/counter_arguments.png
+      date: "2025-09-01"
+      categories: [Lil AVCX]
+      
+    - title: "On Your Marks"
+      path: https://avxwords.com/puzzles/1866/
+      image: crossword_grids/on_your_marks.png
+      date: "2025-07-21"
+      categories: [Lil AVCX]
+      
+    - title: "Well, It's Ablaut Time"
+      path: https://avxwords.com/puzzles/1842/
+      image: crossword_grids/well_its_ablaut_time.png
+      date: "2025-06-17"
+      categories: [Lil AVCX]
+      
+    - title: "It's a Small World After All"
+      path: https://avxwords.com/puzzles/1822/
+      image: crossword_grids/its_a_small_world_after_all.png
+      date: "2025-05-13"
+      categories: [Lil AVCX]
+      
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  image-height: 100%
+page-layout: full
+title-block-banner: true
+---
