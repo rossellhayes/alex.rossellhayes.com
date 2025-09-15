@@ -63,13 +63,17 @@ div.quarto-grid-item .listing-categories {
 
 .quarto-post.image-left .thumbnail img {
   object-fit: contain;
-  max-height: 5lh;
   max-height: 4lh;
   margin-top: 0;
 }
 
+.quarto-post.image-right .thumbnail img {
+  object-fit: contain;
+  max-height: 8lh;
+  margin-top: 0;
+}
+
 .quarto-post.image-left .thumbnail {
-  flex-basis: 4.33lh;
   flex-basis: 3.46lh;
 }
 

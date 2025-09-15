@@ -1,0 +1,26 @@
+---
+title: "Academic papers"
+listing:
+  contents:
+    - title: "Strategies to increase the intention to get vaccinated against COVID-19: Findings from a nationally representative survey of US adults, October 2020 to October 2021"
+      subtitle: "Arash Naeim, Rebecca J. Guerin, Ryan Baxter-King, Andrea H. Okun, Neil Wenger, Karen Sepucha, Annette L. Stanton, Aaron Rudkin, Derek Holliday, Alexander Rossell Hayes, and Lynn Vavreck"
+      description: "<i>Vaccine</i> 40, no. 52 (2022): 7571-7578"
+      path: https://doi.org/10.1016/j.vaccine.2022.09.024
+      image: https://web.archive.org/web/20230102081849im_/https://ars.els-cdn.com/content/image/X0264410X.jpg
+      date: "2022-12-12"
+      
+    - title: "How radical right-wing populism has shaped recent migration policy in Austria and Germany"
+      subtitle: "Alexander Rossell Hayes and Carolyn Marie Dudek"
+      description: "<i>Journal of Immigrant & Refugee Studies</i> 18, no. 2 (2020): 133-150"
+      path: https://doi.org/10.1080/15562948.2019.1587130
+      image: https://www.tandfonline.com/cms/asset/308d03f2-14b9-4ad5-afec-c7251ac004ac/wimm20.v018.i02.largecover.jpg
+      date: "2019-05-20"
+  
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

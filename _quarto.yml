@@ -9,6 +9,8 @@ website:
     right:
       - text: Articles
         href: articles.qmd
+      - text: Papers
+        href: academic.qmd
       - text: Packages
         href: packages.qmd
       - text: Crosswords

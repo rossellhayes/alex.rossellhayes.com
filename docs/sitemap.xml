@@ -2,19 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://alex.rossellhayes.com/articles.html</loc>
-    <lastmod>2025-09-14T20:15:09.906Z</lastmod>
+    <lastmod>2025-09-15T17:56:02.095Z</lastmod>
   </url>
   <url>
-    <loc>https://alex.rossellhayes.com/media.html</loc>
-    <lastmod>2025-09-07T19:44:32.458Z</lastmod>
+    <loc>https://alex.rossellhayes.com/academic.html</loc>
+    <lastmod>2025-09-15T18:18:33.881Z</lastmod>
+  </url>
+  <url>
+    <loc>https://alex.rossellhayes.com/index.html</loc>
+    <lastmod>2025-08-28T20:59:56.574Z</lastmod>
   </url>
   <url>
     <loc>https://alex.rossellhayes.com/crosswords.html</loc>
     <lastmod>2025-09-12T00:29:47.121Z</lastmod>
   </url>
   <url>
-    <loc>https://alex.rossellhayes.com/index.html</loc>
-    <lastmod>2025-08-28T20:59:56.574Z</lastmod>
+    <loc>https://alex.rossellhayes.com/media.html</loc>
+    <lastmod>2025-09-07T19:44:32.458Z</lastmod>
   </url>
   <url>
     <loc>https://alex.rossellhayes.com/packages.html</loc>
