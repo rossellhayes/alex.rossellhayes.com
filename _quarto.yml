@@ -23,8 +23,12 @@ website:
         href: https://bsky.app/profile/alxrh.bsky.social
       - text: "{{< iconify fa6-brands mastodon >}}"
         href: https://rstats.me/@alxrh
+      - text: "{{< iconify fa6-brands linkedin >}}"
+        href: https://www.linkedin.com/in/alexander-rossell-hayes/
       - text: "{{< iconify fa6-brands orcid >}}"
         href: https://orcid.org/0000-0001-9412-0457
+      - text: "{{< iconify fa6-solid envelope >}}"
+        href: mailto:alexander@rossellhayes.com
   page-footer: |
     Fonts are [Jost*](https://indestructibletype.com/Jost.html) and
       [[Besley*](https://indestructibletype.com/Besley.html)]{.besley} by
