@@ -61,7 +61,7 @@ listing:
       path: https://pkg.rossellhayes.com/player/
       image: https://pkg.rossellhayes.com/player/reference/figures/logo.png?raw=TRUE
       description: "Play games in the R console"
-      date-modified: "2025-08-21"
+      date-modified: "2025-09-22"
       categories: [R]
       
     - title: "plu"
