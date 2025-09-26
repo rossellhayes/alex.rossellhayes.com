@@ -2,6 +2,38 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: MSNBC
+      subtitle: "The grand 'treaty' that could derail GOP gerrymandering"
+      author: Greta Bedekovics
+      path: https://www.msnbc.com/opinion/msnbc-opinion/republican-gerrymandering-2026-redistricting-commissions-rcna231660
+      image: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2025_09/1757789978183_n_velshi_Gerrymandering_Redistricting_Kansas_RepresentativeShariceDavids_250913_1920x1080-g18ngf.jpg
+      date: "2025-09-16T16:01:00-04:00"
+      categories: [Mention, MSNBC]
+    
+    - title: Erie News Now
+      subtitle: "Jeopardy Contestant From Erie on Show This Week"
+      author: Lisa Adams
+      path: https://www.erienewsnow.com/story/53085572/jeopardy-contestant-from-erie-on-show-this-week
+      image: https://WICU.images.worldnow.com/images/26739334_G.jpg
+      date: "2025-09-15T18:10:00-04:00"
+      categories: [Interview]
+      
+    - title: Miami Herald
+      subtitle: "What do Americans make of US military operations abroad? Poll shows a shift"
+      author: Brendan Rascius
+      path: https://www.miamiherald.com/news/nation-world/national/article312121123.html
+      image: https://www.miamiherald.com/public/news/nation-world/national/hywuoe/picture312121086/alternates/LANDSCAPE_1140/michael-afonso-BQgAYwERXhs-unsplash%20(1).jpg
+      date: "2025-09-15T17:55:00-04:00"
+      categories: [Mention, Miami Herald]
+      
+    - title: MassLive
+      subtitle: "Is Trump ‘too old’ to be president? New poll shows major shift"
+      author: Adam Bass
+      path: https://www.masslive.com/data/2025/09/is-trump-too-old-to-be-president-new-poll-shows-major-shift.html
+      image: https://www.masslive.com/resizer/v2/7FAUD7BB3RDRNPWMMWA5Q3QRVE.jpg?auth=b318537687691900df83886d7f4adbc5fa5d1e83d6900c60a8d19e5bb8fcc494
+      date: "2025-09-12"
+      categories: [Mention]
+    
     - title: New York Times
       subtitle: "Should 16-Year-Olds Be Allowed to Vote?"
       author: Jeremy Engle
@@ -18,13 +50,77 @@ listing:
       date: "2025-09-04"
       categories: [Interview, The Hill]
       
+    - title: The Independent
+      subtitle: "Most Americans oppose gerrymandering in new poll – unless their opponents do it first"
+      author: Katie Hawkinson
+      path: https://www.the-independent.com/news/world/americas/us-politics/texas-california-redistricting-support-polls-b2817416.html
+      image: https://cdn.jwplayer.com/v2/media/oW1g8ezw/poster.jpg
+      date: "2025-08-31T14:57:00-04:00"
+      categories: [Mention, The Independent]
+      
     - title: Strength in Numbers
       subtitle: "Support for partisan gerrymandering is growing"
       author: G. Elliott Morris
-      path: https://www.gelliottmorris.com/p/voters-are-now-more-supportive-of?r=4cm0m&triedRedirect=true
+      path: https://www.gelliottmorris.com/p/voters-are-now-more-supportive-of
       image: https://substackcdn.com/image/fetch/$s_!BBFd!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe4b648c-aab6-4f58-968c-e2541687db41_1282x1064.png
-      date: "2025-08-31"
+      date: "2025-08-31T07:30:59-04:00"
       categories: [Mention, Strength in Numbers]
+      
+    - title: El Paso News
+      subtitle: "Opinion: The Real Problem (and Solution) With Redistricting Is Simple: The Maps Don’t Make Sense"
+      author: Chris Hernandez
+      path: https://elpasonews.org/2025/08/28/opinion-the-real-problem-and-solution-with-redistricting-is-simple-the-maps-dont-make-sense/
+      image: https://i0.wp.com/elpasonews.org/wp-content/uploads/2025/08/epn_2-2.png
+      date: "2025-08-28"
+      categories: [Mention]
+      
+    - title: San Francisco Chronicle
+      subtitle: "Planned Parenthood joins California Democrats in fight to redraw congressional maps"
+      author: Christine Mai-Duc
+      path: https://www.sfchronicle.com/health/article/planned-parenthood-abortion-california-20824514.php
+      image: https://s.hdnux.com/photos/01/54/24/57/28396534/3/ratio3x2_960.webp
+      date: "2025-08-20"
+      categories: [Mention, San Francisco Chronicle]
+    
+    - title: KFF Health News
+      subtitle: "Planned Parenthood Bets on Redistricting To Push Back Against GOP Funding Cuts"
+      author: Christine Mai-Duc
+      path: https://kffhealthnews.org/news/article/california-redistricting-planned-parenthood-newsom-gerrymandering-texas-abortion/
+      image: https://kffhealthnews.org/wp-content/uploads/sites/2/2025/08/22310754404261.jpg
+      date: "2025-08-20"
+      categories: [Mention]
+      
+    - title: No Labels
+      subtitle: "California Fires Back at Texas – But Where Do Voters Stand?"
+      author: Peyton Lofton
+      path: https://nolabels.org/the-latest/california-fires-back-at-texas-but-where-do-voters-stand/
+      image: https://nolabels.org/wp-content/uploads/2025/08/AP25226728570706.jpg
+      date: "2025-08-15"
+      categories: [Mention]
+      
+    - title: National Review
+      subtitle: "Texas Democrats Announce Plan to End Redistricting Standoff If Certain Conditions Are Met"
+      author: John R. Puri
+      path: https://www.nationalreview.com/news/texas-democrats-announce-plan-to-end-redistricting-standoff-if-certain-conditions-are-met/
+      image: https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2025/08/texas-state-house-empty-chairs.jpg
+      date: "2025-08-14T18:04:00-04:00"
+      categories: [Mention, National Review]
+    
+    - title: TV 2 Danmark
+      subtitle: "Trump vil bruge omstridt taktik til at beholde magten – men konsekvensen kan blive enorm"
+      author: "Mikkel Secher, Mads Røjkum Nielsen, Anders Ulltveit-Moe, and Emilie Haaber Lynggaard"
+      path: https://nyheder.tv2.dk/udland/2025-08-13-trump-vil-bruge-omstridt-taktik-til-at-fastholde-magten-men-konsekvensen-kan-blive-endnu-stoerre
+      image: https://cdn-free.tv2i.dk/e/d/i/editorial/b/b/7/bb7651b0-5686-4eec-a012-e2182fc790f5?ixlib=js-3.8.0&w=1280&h=720&q=45&auto=format&fit=crop&rect64=MCwzMDYsNTA2OSwyODQ2&s=55a31f2703a2bf8499c2033c9dd545c8
+      date: "2025-08-17T00:00:00+02:00"
+      categories: [Mention, TV 2 Danmark]
+      
+    - title: Boston Globe
+      subtitle: "Where did gerrymandering come from? You can thank — or blame — a former Mass. governor"
+      author: Ian Prasad Philbrick
+      path: https://www.bostonglobe.com/2025/08/12/newsletters/starting-point-gerrymander-massachusetts-connection/
+      image: https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/FPT5VUKR3BBGVFHUMG7O4FS2ZA.png?auth=c34977e0356b0e1c4d1c9041a38a729752d66638243836212222edba3282812d
+      date: "2025-08-12T06:23:00-04:00"
+      categories: [Mention, Boston Globe]
       
     - title: Strength in Numbers
       subtitle: "Gerrymandering is unpopular. Shocker!"
@@ -57,13 +153,61 @@ listing:
       date: "2025-07-06"
       categories: [Mention]
       
+    - title: The Kyiv Independent
+      subtitle: "Half of Americans support sanctions on countries that buy Russian oil and gas, poll finds"
+      author: Abbey Fenbert
+      path: https://kyivindependent.com/half-of-americans-support-sanctions-on-countries-that-buy-russian-oil-and-gas-poll-shows/
+      image: https://assets.kyivindependent.com/content/images/2024/11/GettyImages-2149305400.jpg
+      date: "2025-06-28T04:25:31.000Z"
+      categories: [Mention, Kyiv Independent]
+    
     - title: The Hill
       subtitle: "Majority of Americans back sanctions on Russia, allies that purchase oil: Survey"
       author: Ashleigh Fields
       path: https://thehill.com/policy/international/5375130-russian-sanctions-oil-ukraine-survey/
       image: https://thehill.com/wp-content/uploads/sites/2/2024/02/AP23295337822200-e1708708402110.jpg
-      date: "2025-06-28"
+      date: "2025-06-28T14:12:00-04:00"
       categories: [Mention, The Hill]
+      
+    - title: Washington Examiner
+      subtitle: "The penny is going away in early 2026: What it means for you and your one-cent coins"
+      author: Mackenzie Thomas
+      path: https://www.washingtonexaminer.com/policy/economy/3428690/penny-going-away-2026-know-one-cent-coins/
+      image: https://www.washingtonexaminer.com/wp-content/uploads/2023/12/ap070815016913-scaled.jpg
+      date: "2025-06-03T10:53:00-04:00"
+      categories: [Mention]
+      
+    - title: Reader's Digest
+      subtitle: "Hold on to These 10 Pennies If You Have Them—They Could Be Worth Big Bucks in 2050!"
+      author: Charlotte Hilton Andersen
+      path: https://www.rd.com/article/rare-pennies-worth-money/
+      image: https://www.rd.com/wp-content/uploads/2025/05/GettyImages-2198716594-scaled.jpg
+      date: "2025-05-30"
+      categories: [Mention, Reader's Digest]
+      
+    - title: MSNBC
+      subtitle: "It's ‘common cents’: Treasury Department set to halt penny production"
+      author: Allison Detzel
+      path: https://www.msnbc.com/top-stories/latest/treasury-stop-minting-penny-one-cent-piece-coin-rcna208592
+      image: https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250522-pennies-ch-1440-e509c2.jpg
+      date: "2025-05-23T15:24:00-04:00"
+      categories: [Mention, MSNBC]
+      
+    - title: Novinky.cz
+      subtitle: "Kanye West vydal píseň s názvem Heil Hitler"
+      author: Magdalena Žohová
+      path: https://www.novinky.cz/clanek/kultura-kanye-west-vydal-pisen-s-nazvem-heil-hitler-40520526
+      image: https://d15-a.sdn.cz/d_15/c_img_E_J/7kqT8A.jpeg?fl=cro,0,22,1280,720%7Cres,1200,,1%7Cjpg,80,,1
+      date: "2025-05-09T11:07:11.000Z"
+      categories: [Mention, Novinky.cz]
+      
+    - title: Ms. Magazine
+      subtitle: "This Week in Women’s Representation: From AOC to Alaska’s Next Governor, Women Candidates to Watch in 2024, 2028 and Beyond"
+      author: Cynthis Richie Terrell
+      path: https://msmagazine.com/2025/03/28/womens-representation-history-elections-voting-rights-2025-trump-musk-aoc-peltola/
+      image: https://msmagazine.com/wp-content/uploads/2025/08/Weekend-Reading-Banner-800-x-450-px.png
+      date: "2025-03-28"
+      categories: [Mention, Ms. Magazine]
       
     - title: AS USA
       subtitle: "New poll reveals the historical figures Americans want to see on US dollars and coins"
@@ -73,6 +217,22 @@ listing:
       date: "2025-03-21"
       categories: [Mention]
       
+    - title: CNN Portugal
+      subtitle: "Trump 2.0: ecos de uma América dividida"
+      author: Manuel Serrano
+      path: https://cnnportugal.iol.pt/donald-trump/tomada-de-posse/manuel-serrano-trump-2-0-ecos-de-uma-america-dividida/20250118/6788f8bed34ea1acf272ef8b
+      image: https://cnnportugal.iol.pt/img/logo.svg
+      date: "2025-01-18T17:00:00Z"
+      categories: [Mention, CNN Portugal]
+      
+    - title: Al Jazeera
+      subtitle: "‘A seismic shift’: How US President Joe Biden altered perceptions of age"
+      author: Tyler Hicks
+      path: https://www.aljazeera.com/news/longform/2024/11/25/a-seismic-shift-how-us-president-joe-biden-altered-perceptions-of-age
+      image: https://www.aljazeera.com/wp-content/uploads/2024/11/AP24328095373332-1732488706.jpg?resize=1920%2C1440
+      date: "2024-11-25"
+      categories: [Mention, Al Jazeera]
+      
     - title: Snopes
       subtitle: "Nearly 25% of Americans Believe Hitler Was a Good Person?"
       author: Aleksandra Wrona
@@ -81,6 +241,14 @@ listing:
       date: "2024-11-14"
       categories: [Mention, Snopes]
       
+    - title: Jezebel
+      subtitle: "Trump Owned Himself With That Garbage Truck Stunt"
+      author: Susan Rinkunas
+      path: https://www.jezebel.com/trump-owned-himself-with-that-garbage-truck-stunt
+      image: https://img.pastemagazine.com/wp-content/juploads/2024/11/trumptruck.jpg
+      date: "2024-11-02T16:49:53+00:00"
+      categories: [Mention, Jezebel]
+      
     - title: The Hill
       subtitle: "Most in new poll say campaigns should pay cities that host rallies"
       author: Joanne Haner
@@ -88,6 +256,22 @@ listing:
       image: https://thehill.com/wp-content/uploads/sites/2/2024/10/Leading-Trump_103024_AP_JuliaDemareeNikhinson.jpg
       date: "2024-11-01"
       categories: [Mention, The Hill]
+      
+    - title: Boston.com
+      subtitle: "Markey says he’ll run again in 2026, at age 80"
+      author: Ross Cristantiello
+      path: https://www.boston.com/news/politics/2024/10/28/markey-says-hell-run-again-in-2026-at-age-80/
+      image: https://bdc2020.o0bc.com/wp-content/uploads/2024/10/ACUZYNKBUOJQKHDMCFTIWBFSQ4-671fe2485e296-768x432.jpg
+      date: "2024-10-28T19:34:27Z"
+      categories: [Mention]
+      
+    - title: n-tv.de
+      subtitle: "Holt das Alter Donald Trump doch noch ein?"
+      author: Friederike Zörner
+      path: https://www.n-tv.de/politik/US-wahl-2024/Holt-das-Alter-Donald-Trump-doch-noch-ein-article25318093.html
+      image: https://www.n-tv.de/img/incoming/crop25318095/3801322157-cImg_16_9-w1200/65240c6dec92bb80561a1f281926af76.jpg
+      date: "2024-10-27T17:44:49+01:00"
+      categories: [Mention, n-tv.de]
       
     - title: Newsweek
       subtitle: "Most Americans Skeptical of What Schools Taught Them About Columbus: Poll"
@@ -104,7 +288,7 @@ listing:
       image: https://thehill.com/wp-content/uploads/sites/2/2023/10/Closer-Indigenous-Peoples-Day_100523_AP_Matt-Rourke.jpg
       date: "2024-10-14"
       categories: [Mention, The Hill]
-      
+    
     - title: Astral Codex Ten
       subtitle: "Open Thread 349"
       author: Scott Alexander
