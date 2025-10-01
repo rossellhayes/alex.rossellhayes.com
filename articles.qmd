@@ -2,11 +2,17 @@
 title: "Articles"
 listing:
   contents:
+    - title: "Majorities say many proposed commemorations of Charlie Kirk go too far"
+      path: https://today.yougov.com/politics/articles/53103-majorities-say-many-proposed-commemorations-of-charlie-kirk-go-too-far
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-487475982.original.jpg
+      date: "2025-10-01T14:38:39.468258Z"
+      categories: [Polling, Politics, Free speech, Holidays, Money]
+    
     - title: "Most Americans disapprove of Trump's handling of free speech and a growing share say rights are eroding"
       path: https://today.yougov.com/politics/articles/53043-most-americans-disapprove-donald-trump-handling-free-speech-growing-share-say-rights-eroding-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Jimmy_Kimmel_GettyImages-2236195492_copy.original.jpg
       date: "2025-09-23"
-      categories: [Polling, Politics]
+      categories: [Polling, Politics, Free speech]
     
     - title: "Most Americans oppose military involvement in Venezuela"
       path: https://today.yougov.com/politics/articles/52958-most-americans-oppose-military-involvement-in-venezuela-maduro-poll
