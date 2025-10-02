@@ -2,6 +2,14 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: Miami Herald
+      subtitle: "Do Americans support government efforts to honor Charlie Kirk? What a poll found"
+      author: Brendan Rascius
+      path: https://www.miamiherald.com/news/nation-world/national/article312354401.html
+      image: https://www.miamiherald.com/public/news/nation-world/national/hbgw4q/picture312354355/alternates/LANDSCAPE_1140/Kirk-photo.jpeg
+      date: "2025-10-02T13:40:21-04:00"
+      categories: [Miami Herald, "🇺🇸 United States"]
+      
     - title: New York Times
       subtitle: "Trump Isn’t Busting Drug Cartels. He’s Settling Scores."
       author: Christopher Sabatini
@@ -9,6 +17,14 @@ listing:
       image: https://static01.nyt.com/images/2025/10/01/multimedia/01sabatini-pfmj/01sabatini-pfmj-mobileMasterAt3x.jpg
       date: "2025-10-01T12:17:46.000Z"
       categories: [New York Times, "🇺🇸 United States"]
+      
+    - title: Politico
+      subtitle: "‘There could very well be consequences’: Trump’s team pressures wary GOP lawmakers to draw new maps"
+      author: Andrew Howard, Liz Crampton, and Elena Schneider
+      path: https://www.politico.com/news/2025/09/30/redistricting-republican-loyalty-test-trump-00584932
+      image: https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F26%2Fae%2Fd2290d624f40b636f542bd3ee43e%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2235539595
+      date: "2025-09-30T13:00-0400"
+      categories: [Politico, "🇺🇸 United States"]
       
     - title: Democracy Docket
       subtitle: "Trump Took Key Steps Into Authoritarianism This Week"
