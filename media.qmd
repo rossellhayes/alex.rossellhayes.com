@@ -2,6 +2,14 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: New York Times
+      subtitle: "Trump Isn’t Busting Drug Cartels. He’s Settling Scores."
+      author: Christopher Sabatini
+      path: https://www.nytimes.com/2025/10/01/opinion/venezuela-trump-maduro-regime-boats.html
+      image: https://static01.nyt.com/images/2025/10/01/multimedia/01sabatini-pfmj/01sabatini-pfmj-mobileMasterAt3x.jpg
+      date: "2025-10-01T12:17:46.000Z"
+      categories: [New York Times, "🇺🇸 United States"]
+      
     - title: Democracy Docket
       subtitle: "Trump Took Key Steps Into Authoritarianism This Week"
       author: Jacob Knutson	
