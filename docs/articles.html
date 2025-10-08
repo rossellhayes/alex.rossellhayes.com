@@ -81,7 +81,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-image','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-image","listing-date","listing-categories"],
     };
 
@@ -224,7 +225,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(25)</span></div><div class="category" data-category="QWdl">Age <span class="quarto-category-count">(6)</span></div><div class="category" data-category="RWxlY3Rpb25z">Elections <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Rm9yZWlnbiUyMHBvbGljeQ==">Foreign policy <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RnJlZSUyMHNwZWVjaA==">Free speech <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RnVu">Fun <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R2VuZGVy">Gender <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R2VycnltYW5kZXJpbmc=">Gerrymandering <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R3JlZW5sYW5k">Greenland <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SGlzdG9yeQ==">History <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SG9saWRheXM=">Holidays <span class="quarto-category-count">(4)</span></div><div class="category" data-category="SW1taWdyYXRpb24=">Immigration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWV0aG9kb2xvZ3k=">Methodology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9uZXk=">Money <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UG9saXRpY3M=">Politics <span class="quarto-category-count">(20)</span></div><div class="category" data-category="UG9sbGluZw==">Polling <span class="quarto-category-count">(25)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(27)</span></div><div class="category" data-category="QWdl">Age <span class="quarto-category-count">(6)</span></div><div class="category" data-category="RWxlY3Rpb25z">Elections <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Rm9yZWlnbiUyMHBvbGljeQ==">Foreign policy <span class="quarto-category-count">(3)</span></div><div class="category" data-category="RnJlZSUyMHNwZWVjaA==">Free speech <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RnVu">Fun <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R2VuZGVy">Gender <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R2VycnltYW5kZXJpbmc=">Gerrymandering <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R3JlZW5sYW5k">Greenland <span class="quarto-category-count">(2)</span></div><div class="category" data-category="SGlzdG9yeQ==">History <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SG9saWRheXM=">Holidays <span class="quarto-category-count">(4)</span></div><div class="category" data-category="SW1taWdyYXRpb24=">Immigration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWV0aG9kb2xvZ3k=">Methodology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWlsaXRhcnk=">Military <span class="quarto-category-count">(2)</span></div><div class="category" data-category="TW9uZXk=">Money <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UG9saXRpY3M=">Politics <span class="quarto-category-count">(22)</span></div><div class="category" data-category="UG9sbGluZw==">Polling <span class="quarto-category-count">(27)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -238,7 +239,61 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRnJlZSUyMHNwZWVjaCUyQ0hvbGlkYXlzJTJDTW9uZXk=" data-listing-date-sort="1759329519468">
+<div class="quarto-post image-right" data-index="0" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDTWlsaXRhcnk=" data-listing-date-sort="1759870513600">
+<div class="thumbnail"><a href="https://today.yougov.com/politics/articles/53132-poll-trump-hegseth-meeting-generals-admirals-army-war" class="no-external">
+
+<img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2238300792.original.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://today.yougov.com/politics/articles/53132-poll-trump-hegseth-meeting-generals-admirals-army-war" class="no-external">What do Americans think about Trump and Hegseth’s meeting with the generals and admirals?</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG9sbGluZw=='); return false;">Polling</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG9saXRpY3M='); return false;">Politics</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWlsaXRhcnk='); return false;">Military</div>
+
+</div>
+</div>
+<div class="metadata">
+<a href="https://today.yougov.com/politics/articles/53132-poll-trump-hegseth-meeting-generals-admirals-army-war" class="no-external">
+<div class="listing-date">
+Oct 7, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="UG9sbGluZyUyQ1BvbGl0aWNz" data-listing-date-sort="1759517493309">
+<div class="thumbnail"><a href="https://today.yougov.com/politics/articles/53111-what-do-americans-think-of-trumps-and-newsoms-social-media" class="no-external">
+
+<img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1063020944.original.jpg?pw=1200" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://today.yougov.com/politics/articles/53111-what-do-americans-think-of-trumps-and-newsoms-social-media" class="no-external">What do Americans think of Trump’s and Newsom’s social media?</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG9sbGluZw=='); return false;">Polling</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('UG9saXRpY3M='); return false;">Politics</div>
+
+</div>
+</div>
+<div class="metadata">
+<a href="https://today.yougov.com/politics/articles/53111-what-do-americans-think-of-trumps-and-newsoms-social-media" class="no-external">
+<div class="listing-date">
+Oct 3, 2025
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRnJlZSUyMHNwZWVjaCUyQ0hvbGlkYXlzJTJDTW9uZXk=" data-listing-date-sort="1759329519468">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/53103-majorities-say-many-proposed-commemorations-of-charlie-kirk-go-too-far" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-487475982.original.jpg" class="thumbnail-image">
@@ -270,7 +325,7 @@ Oct 1, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRnJlZSUyMHNwZWVjaA==" data-listing-date-sort="1758600000000">
+<div class="quarto-post image-right" data-index="3" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRnJlZSUyMHNwZWVjaA==" data-listing-date-sort="1758600000000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/53043-most-americans-disapprove-donald-trump-handling-free-speech-growing-share-say-rights-eroding-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/Jimmy_Kimmel_GettyImages-2236195492_copy.original.jpg" class="thumbnail-image">
@@ -298,7 +353,7 @@ Sep 23, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRm9yZWlnbiUyMHBvbGljeQ==" data-listing-date-sort="1757649600000">
+<div class="quarto-post image-right" data-index="4" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRm9yZWlnbiUyMHBvbGljeQ==" data-listing-date-sort="1757649600000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52958-most-americans-oppose-military-involvement-in-venezuela-maduro-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/Navy_GettyImages-179438899_copy.original.jpg" class="thumbnail-image">
@@ -326,7 +381,7 @@ Sep 12, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDQWdl" data-listing-date-sort="1757476800000">
+<div class="quarto-post image-right" data-index="5" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDQWdl" data-listing-date-sort="1757476800000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52933-concerns-about-trumps-age-and-health-have-grown-since-the-start-of-his-second-term" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2232048025.original.jpg" class="thumbnail-image">
@@ -354,7 +409,7 @@ Sep 10, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRm9yZWlnbiUyMHBvbGljeSUyQ0dyZWVubGFuZA==" data-listing-date-sort="1756612800000">
+<div class="quarto-post image-right" data-index="6" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRm9yZWlnbiUyMHBvbGljeSUyQ0dyZWVubGFuZA==" data-listing-date-sort="1756612800000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52879-few-americans-want-to-take-over-greenland-most-oppose-covert-operations-military-action-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/Greenland_GettyImages-2206689548_copy.original.jpg" class="thumbnail-image">
@@ -384,7 +439,7 @@ Aug 31, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VycnltYW5kZXJpbmc=" data-listing-date-sort="1756267200000">
+<div class="quarto-post image-right" data-index="7" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VycnltYW5kZXJpbmc=" data-listing-date-sort="1756267200000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52837-after-texas-legislators-passed-redistricting-bill-support-rises-for-democratic-counter-gerrymandering" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2230198335.original.jpg" class="thumbnail-image">
@@ -412,7 +467,7 @@ Aug 27, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VycnltYW5kZXJpbmc=" data-listing-date-sort="1754971200000">
+<div class="quarto-post image-right" data-index="8" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VycnltYW5kZXJpbmc=" data-listing-date-sort="1754971200000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52756-few-americans-support-texas-republicans-redistricting-plan-gerrymandering-opinions-split-democratic-lawmakers-move-stop-it-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/Texas_Redistricting_GettyImages-2228953492_copy.original.jpg" class="thumbnail-image">
@@ -440,7 +495,7 @@ Aug 12, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VycnltYW5kZXJpbmc=" data-listing-date-sort="1754625600000">
+<div class="quarto-post image-right" data-index="9" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VycnltYW5kZXJpbmc=" data-listing-date-sort="1754625600000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52740-large-majorities-americans-say-gerrymandering-major-problem-unfair-should-be-illegal-redistricting-texas-california-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/Gerrymandering_GettyImages-1138412200_copy.original.jpg" class="thumbnail-image">
@@ -468,7 +523,7 @@ Aug 8, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="UG9sbGluZyUyQ0FnZQ==" data-listing-date-sort="1753726860000">
+<div class="quarto-post image-right" data-index="10" data-categories="UG9sbGluZyUyQ0FnZQ==" data-listing-date-sort="1753726860000">
 <div class="thumbnail"><a href="https://today.yougov.com/society/articles/52671-many-americans-would-like-to-raise-the-driving-age-and-lower-the-drinking-age" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-802236882.original.jpg" class="thumbnail-image">
@@ -494,7 +549,7 @@ Jul 28, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDQWdl" data-listing-date-sort="1753720260000">
+<div class="quarto-post image-right" data-index="11" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDQWdl" data-listing-date-sort="1753720260000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52670-most-americans-dont-want-to-lower-the-voting-age-but-they-do-want-younger-presidents" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1588099130.original.jpg" class="thumbnail-image">
@@ -522,7 +577,7 @@ Jul 28, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="UG9sbGluZyUyQ0FnZQ==" data-listing-date-sort="1751515200000">
+<div class="quarto-post image-right" data-index="12" data-categories="UG9sbGluZyUyQ0FnZQ==" data-listing-date-sort="1751515200000">
 <div class="thumbnail"><a href="https://today.yougov.com/society/articles/52483-young-american-adults-challenge-the-conventional-wisdom-on-tooth-removal" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1303223544.original.jpg" class="thumbnail-image">
@@ -548,7 +603,7 @@ Jul 3, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRm9yZWlnbiUyMHBvbGljeQ==" data-listing-date-sort="1750996800000">
+<div class="quarto-post image-right" data-index="13" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRm9yZWlnbiUyMHBvbGljeQ==" data-listing-date-sort="1750996800000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/52453-most-americans-support-russia-sanctions-many-support-sanctioning-countries-buy-russian-oil-gas-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/Russia_Ukraine_war_GettyImages-1459651125_copy.original.jpg" class="thumbnail-image">
@@ -576,7 +631,7 @@ Jun 27, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="UG9sbGluZyUyQ01vbmV5JTJDSGlzdG9yeSUyQ0Z1bg==" data-listing-date-sort="1744084800000">
+<div class="quarto-post image-right" data-index="14" data-categories="UG9sbGluZyUyQ01vbmV5JTJDSGlzdG9yeSUyQ0Z1bg==" data-listing-date-sort="1744084800000">
 <div class="thumbnail"><a href="https://today.yougov.com/consumer/articles/51975-who-would-americans-like-to-see-on-their-money" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1327342315.original.jpg" class="thumbnail-image">
@@ -606,7 +661,7 @@ Apr 8, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDTW9uZXk=" data-listing-date-sort="1742443200000">
+<div class="quarto-post image-right" data-index="15" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDTW9uZXk=" data-listing-date-sort="1742443200000">
 <div class="thumbnail"><a href="https://today.yougov.com/economy/articles/51865-more-americans-want-to-drop-the-penny-than-to-save-it" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1396258258.original.jpg" class="thumbnail-image">
@@ -634,7 +689,7 @@ Mar 20, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDTWV0aG9kb2xvZ3klMkNJbW1pZ3JhdGlvbg==" data-listing-date-sort="1742270400000">
+<div class="quarto-post image-right" data-index="16" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDTWV0aG9kb2xvZ3klMkNJbW1pZ3JhdGlvbg==" data-listing-date-sort="1742270400000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/51846-what-americans-think-about-immigrants-depends-on-how-you-ask-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/immigration_GettyImages-1187191536_copy.original.jpg" class="thumbnail-image">
@@ -664,7 +719,7 @@ Mar 18, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VuZGVy" data-listing-date-sort="1742184000000">
+<div class="quarto-post image-right" data-index="17" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDR2VuZGVyJTJDTWlsaXRhcnk=" data-listing-date-sort="1742184000000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/51835-support-for-women-military-combat-roles-widespread-growing-poll" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/women_in_military_GettyImages-1493024059_copy.original.jpg" class="thumbnail-image">
@@ -682,6 +737,8 @@ Mar 18, 2025
 
 <div class="listing-category" onclick="window.quartoListingCategory('R2VuZGVy'); return false;">Gender</div>
 
+<div class="listing-category" onclick="window.quartoListingCategory('TWlsaXRhcnk='); return false;">Military</div>
+
 </div>
 </div>
 <div class="metadata">
@@ -692,7 +749,7 @@ Mar 17, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25z" data-listing-date-sort="1732510800000">
+<div class="quarto-post image-right" data-index="18" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25z" data-listing-date-sort="1732510800000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/50998-after-the-election-voters-less-likely-to-vote-for-other-democrats-than-harris" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2166913421.original.jpg" class="thumbnail-image">
@@ -720,7 +777,7 @@ Nov 25, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25zJTJDSGlzdG9yeQ==" data-listing-date-sort="1730347200000">
+<div class="quarto-post image-right" data-index="19" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25zJTJDSGlzdG9yeQ==" data-listing-date-sort="1730347200000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/50864-two-thirds-of-americans-say-hitler-was-completely-bad" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2181408266.original.jpg" class="thumbnail-image">
@@ -750,7 +807,7 @@ Oct 31, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25z" data-listing-date-sort="1730347200000">
+<div class="quarto-post image-right" data-index="20" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25z" data-listing-date-sort="1730347200000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/50849-americans-think-candidates-should-pay-cities-costs-of-hosting-their-rallies" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2182002244.original.jpg" class="thumbnail-image">
@@ -778,7 +835,7 @@ Oct 31, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25zJTJDQWdl" data-listing-date-sort="1729828800000">
+<div class="quarto-post image-right" data-index="21" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDRWxlY3Rpb25zJTJDQWdl" data-listing-date-sort="1729828800000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/50808-americans-are-increasingly-concerned-about-donald-trumps-age-and-fitness-for-office" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2179409248.original.jpg" class="thumbnail-image">
@@ -808,7 +865,7 @@ Oct 25, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDSG9saWRheXMlMkNIaXN0b3J5JTJDR3JlZW5sYW5k" data-listing-date-sort="1728694140000">
+<div class="quarto-post image-right" data-index="22" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDSG9saWRheXMlMkNIaXN0b3J5JTJDR3JlZW5sYW5k" data-listing-date-sort="1728694140000">
 <div class="thumbnail"><a href="https://today.yougov.com/society/articles/50683-has-leif-erikson-come-out-of-christopher-columbus-shadow" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-655082963.original.jpg" class="thumbnail-image">
@@ -840,7 +897,7 @@ Oct 11, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDSG9saWRheXMlMkNIaXN0b3J5" data-listing-date-sort="1728694020000">
+<div class="quarto-post image-right" data-index="23" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDSG9saWRheXMlMkNIaXN0b3J5" data-listing-date-sort="1728694020000">
 <div class="thumbnail"><a href="https://today.yougov.com/society/articles/50681-christopher-columbus-and-columbus-day-divide-americans" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-169961077_lm03usQ.original.jpg" class="thumbnail-image">
@@ -870,7 +927,7 @@ Oct 11, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDSG9saWRheXM=" data-listing-date-sort="1728693960000">
+<div class="quarto-post image-right" data-index="24" data-categories="UG9sbGluZyUyQ1BvbGl0aWNzJTJDSG9saWRheXM=" data-listing-date-sort="1728693960000">
 <div class="thumbnail"><a href="https://today.yougov.com/society/articles/50682-more-americans-support-federal-observance-of-indigenous-peoples-day-than-columbus-day" class="no-external">
 
 <img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-859128590.original.jpg" class="thumbnail-image">
@@ -898,10 +955,10 @@ Oct 11, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="UG9sbGluZyUyQ0Z1biUyQ0FnZQ==" data-listing-date-sort="1722916800000">
+<div class="quarto-post image-right" data-index="25" data-categories="UG9sbGluZyUyQ0Z1biUyQ0FnZQ==" data-listing-date-sort="1722916800000">
 <div class="thumbnail"><a href="https://today.yougov.com/society/articles/50258-whats-up-with-gen-zs-socks" class="no-external">
 
-<img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-95589596.original.jpg" class="thumbnail-image">
+<img loading="lazy" data-src="https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-95589596.original.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
@@ -926,10 +983,10 @@ Aug 6, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="24" data-categories="UG9sbGluZyUyQ0Z1biUyQ0hpc3RvcnklMkNHZW5kZXI=" data-listing-date-sort="1696305600000">
+<div class="quarto-post image-right" data-index="26" data-categories="UG9sbGluZyUyQ0Z1biUyQ0hpc3RvcnklMkNHZW5kZXI=" data-listing-date-sort="1696305600000">
 <div class="thumbnail"><a href="https://today.yougov.com/politics/articles/47481-men-women-thinking-about-the-roman-empire-poll" class="no-external">
 
-<img loading="lazy" src="https://ygo-assets-websites-editorial-emea.yougov.net/images/roman-empire.original.jpg" class="thumbnail-image">
+<img loading="lazy" data-src="https://ygo-assets-websites-editorial-emea.yougov.net/images/roman-empire.original.jpg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
@@ -958,6 +1015,9 @@ Oct 3, 2023
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {

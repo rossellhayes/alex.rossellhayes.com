@@ -2,6 +2,18 @@
 title: "Articles"
 listing:
   contents:
+    - title: "What do Americans think about Trump and Hegseth's meeting with the generals and admirals?"
+      path: https://today.yougov.com/politics/articles/53132-poll-trump-hegseth-meeting-generals-admirals-army-war
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2238300792.original.jpg
+      date: "2025-10-07T20:55:13.600575Z"
+      categories: [Polling, Politics, Military]
+    
+    - title: "What do Americans think of Trump's and Newsom's social media?"
+      path: https://today.yougov.com/politics/articles/53111-what-do-americans-think-of-trumps-and-newsoms-social-media
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-1063020944.original.jpg?pw=1200
+      date: "2025-10-03T18:51:33.309877Z"
+      categories: [Polling, Politics]
+      
     - title: "Majorities say many proposed commemorations of Charlie Kirk go too far"
       path: https://today.yougov.com/politics/articles/53103-majorities-say-many-proposed-commemorations-of-charlie-kirk-go-too-far
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-487475982.original.jpg
@@ -96,7 +108,7 @@ listing:
       path: https://today.yougov.com/politics/articles/51835-support-for-women-military-combat-roles-widespread-growing-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/women_in_military_GettyImages-1493024059_copy.original.jpg
       date: "2025-03-17"
-      categories: [Polling, Politics, Gender]
+      categories: [Polling, Politics, Gender, Military]
       
     - title: "After the election, Americans say they would have been less likely to vote for other Democrats than Harris in a matchup with Trump"
       path: https://today.yougov.com/politics/articles/50998-after-the-election-voters-less-likely-to-vote-for-other-democrats-than-harris

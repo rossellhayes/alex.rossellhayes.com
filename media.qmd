@@ -2,6 +2,30 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: ARCH雅趣
+      subtitle: "特朗普的選民對國家的方向失去了信心"
+      author: 林建華 (Lin Jianhua)
+      path: https://www.arch-web.com.tw/综合新闻/特朗普的選民對國家的方向失去了信心/109156/
+      image: https://www.arch-web.com.tw/wp-content/uploads/2025/10/AP25273554960231-1.jpg
+      date: "2025-10-05T10:27:20+01:00"
+      categories: ["🇹🇼 Taiwan"]
+      
+    - title: Massa Carrara News
+      subtitle: "Gli elettori di Trump stanno perdendo fiducia nella direzione del paese"
+      author: Alessia Greco
+      path: https://www.massacarraranews.com/notizia/64749/gli-elettori-di-trump-stanno-perdendo-fiducia-nella-direzione-del-paese/
+      image: https://www.massacarraranews.com/wp-content/uploads/2025/10/AP25273554960231-1.jpg
+      date: "2025-10-05T10:27:20+01:00"
+      categories: ["🇮🇹 Italy"]
+      
+    - title: Newsweek
+      subtitle: "Trump Voters Are Losing Confidence in Direction of Country"
+      author: Martha McHardy
+      path: https://www.newsweek.com/trump-voters-are-losing-confidence-in-direction-of-country-10822222
+      image: https://assets.newsweek.com/wp-content/uploads/2025/10/Trump-Voters-Are-Losing-Confidence-in-Direction-of-Country.png
+      date: "2025-10-05T05:00:00-04:00"
+      categories: [Newsweek, "🇺🇸 United States"]
+      
     - title: Miami Herald
       subtitle: "Do Americans support government efforts to honor Charlie Kirk? What a poll found"
       author: Brendan Rascius
