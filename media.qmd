@@ -2,6 +2,70 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: Center for International Policy
+      subtitle: "Congress Must Stop Trump’s Covert and Military Action against Venezuela"
+      author: Matt Duss
+      path: https://internationalpolicy.org/publications/congress-must-stop-trumps-covert-and-military-action-against-venezuela/
+      image: https://internationalpolicy.org/wp-content/uploads/2025/10/A_day_of_fishing_aground.jpg
+      date: "2025-10-16T17:34:06+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Dispatch
+      subtitle: "Of Warriors and Wannabes"
+      author: Bret Devereaux
+      path: https://thedispatch.com/article/pentagon-civil-military-pete-hegseth-speech/
+      image: https://thedispatch.com/wp-content/uploads/2025/10/heg.jpg?w=1024
+      date: "2025-10-15T06:45:00+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Responsible Statecraft
+      subtitle: "Is Rubio finally powerful enough to topple Venezuela's regime?"
+      author: Lee Schlenker
+      path: https://responsiblestatecraft.org/trump-venezuela-maduro-regime-change/
+      image: https://responsiblestatecraft.org/media-library/marco-rubio.jpg?id=61744177&width=1200&height=600&coordinates=0%2C416%2C0%2C417
+      date: "2025-10-13T04:05:03+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: San Antonio Express-News
+      subtitle: "Pete Hegseth calls himself secretary of war but he's actually not. Here's why."
+      author: Sig Christenson
+      path: https://www.expressnews.com/news/article/hegseth-secretary-of-defense-war-name-change-trump-21089264.php
+      image: https://s.hdnux.com/photos/01/54/64/65/28527939/3/rawImage.jpg
+      date: "2025-10-11T09:00:00Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Independent
+      subtitle: "Department of Fail? Three quarters of Americans say they will keep calling the Pentagon the Department of Defense"
+      author: Joe Sommerlad
+      path: https://www.the-independent.com/news/world/americas/us-politics/hegseth-department-of-war-defense-trump-b2843354.html
+      image: https://static.the-independent.com/2025/10/03/20/Pentagon_Commanders_Meeting_00476.jpg
+      date: "2025-10-10T16:04:22.000Z"
+      categories: [The Independent, "🇺🇸 United States"]
+      
+    - title: Friends Committee On National Legislation
+      subtitle: "The Senate is Inching Closer to Recognizing that War is not the Answer"
+      author: Lydia El-Sayegh
+      path: https://www.fcnl.org/updates/2025-10/senate-inching-closer-recognizing-war-not-answer
+      image: https://www.fcnl.org/sites/default/files/2025-04/Love.%20Peace.%20Justice.%20sign%20with%20flowers%20and%20Capitol.png
+      date: "2025-10-09"
+      categories: ["🇺🇸 United States"]
+      
+    - title: WLRN
+      subtitle: "Poll: More Miami-Dade voters oppose than back U.S. military action against Venezuela's regime."
+      author: Tim Padgett
+      path: https://www.wlrn.org/americas/2025-10-06/poll-more-miami-dade-voters-oppose-than-back-u-s-military-action-against-venezuelas-regime
+      image: https://npr.brightspotcdn.com/dims4/default/21f4984/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2F64%2F05dce9e440fda8a3c211508213cd%2Fvenezuelan-militias-100425.jpg
+      date: "2025-10-06T21:54:13.977"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Konzervatívny denník Postoj
+      subtitle: "Trump vyhlásil, že Amerika je v ozbrojenom konflikte s kartelmi, v štyroch incidentoch hlásia 21 zabitých"
+      author: Christian Heitmann
+      path: https://www.postoj.sk/183007/trump-vyhlasil-ze-amerika-je-vozbrojenom-konflikte-s-kartelmi-vstyroch-incidentoch-hlasia-21-zabitych
+      image: https://postoj.sk/uploads/229856/conversions/og_image.jpg
+      date: "2025-10-06"
+      categories: ["🇸🇰 Slovakia"]
+      
     - title: ARCH雅趣
       subtitle: "特朗普的選民對國家的方向失去了信心"
       author: 林建華 (Lin Jianhua)
@@ -25,6 +89,14 @@ listing:
       image: https://assets.newsweek.com/wp-content/uploads/2025/10/Trump-Voters-Are-Losing-Confidence-in-Direction-of-Country.png
       date: "2025-10-05T05:00:00-04:00"
       categories: [Newsweek, "🇺🇸 United States"]
+      
+    - title: The Conversation
+      subtitle: "Venezuela and US edge toward war footing − but domestic concerns, international risks may hold Washington back"
+      author: Robert Muggah
+      path: https://theconversation.com/venezuela-and-us-edge-toward-war-footing-but-domestic-concerns-international-risks-may-hold-washington-back-266509
+      image: https://images.theconversation.com/files/694098/original/file-20251002-56-ggrfjn.jpg
+      date: "2025-10-02T12:43:46Z"
+      categories: ["🇧🇷 Brazil"]
       
     - title: Miami Herald
       subtitle: "Do Americans support government efforts to honor Charlie Kirk? What a poll found"

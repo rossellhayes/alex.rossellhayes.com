@@ -30,9 +30,10 @@ website:
       - text: "{{< iconify fa6-solid envelope >}}"
         href: mailto:alexander@rossellhayes.com
   page-footer: |
-    Fonts are [Jost*](https://indestructibletype.com/Jost.html) and
-      [[Besley*](https://indestructibletype.com/Besley.html)]{.besley} by
-      [indestructible type*](https://indestructibletype.com/Home.html)
+    Fonts are [Jost*](https://indestructibletype.com/Jost.html) by
+      [indestructible type*](https://indestructibletype.com/Home.html) and
+      [[Vollkorn](http://vollkorn-typeface.com/) by
+      [Friedrich Althausen](http://www.grafikfritze.de/)]{.vollkorn}
 format:
   html:
     theme:
@@ -41,3 +42,6 @@ format:
     header-includes: |
       <link rel="stylesheet" href="https://indestructibletype.com/fonts/Besley.css" type="text/css" charset="utf-8" />
       <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8" />
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">

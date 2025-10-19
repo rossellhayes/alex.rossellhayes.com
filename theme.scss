@@ -20,8 +20,9 @@ body {
 }
 
 p {
-  font-family: "Besley";
+  font-family: "Vollkorn";
   font-feature-settings: normal;
+  margin-bottom: 0.67rem;
 }
 
 h1 {
@@ -165,6 +166,10 @@ footer p {
 
 .besley {
   font-family: "Besley";
+}
+
+.vollkorn {
+  font-family: "Vollkorn";
 }
 
 @media(min-width: 992px) {
