@@ -2,6 +2,13 @@
 title: "Articles"
 listing:
   contents:
+    - title: "The U.S. Navy deployment near Venezuela has become even less popular in the past month"
+      author: with Taylor Orth
+      path: https://today.yougov.com/international/articles/53298-the-us-navy-deployment-near-venezuela-has-become-even-less-popular
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2242705455.original.jpg?pw=1200
+      date: "2025-10-31T14:18:58.196487Z"
+      categories: [Polling, Politics, Foreign policy, Military]
+    
     - title: "Is there a war in American cities?"
       path: https://today.yougov.com/politics/articles/53203-is-there-a-war-in-american-cities
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2240388025.original.jpg
