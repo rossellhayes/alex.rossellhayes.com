@@ -2,6 +2,22 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: The Hill
+      subtitle: "Americans more likely to oppose boat strikes, military invasion of Venezuela: Survey"
+      author: Surina Venkat
+      path: https://thehill.com/policy/international/5583482-trump-venezuela-strikes-poll/
+      image: https://thehill.com/wp-content/uploads/sites/2/2025/10/Boa-strikes-polls_103125_AP_Evan-Vucci.jpg?w=1280
+      date: "2025-10-31T14:09:23-04:00"
+      categories: [The Hill, "🇺🇸 United States"]
+      
+    - title: Axios
+      subtitle: "Republicans sour on Trump's military buildup near Venezuela"
+      author: Josephine Walker
+      path: https://www.axios.com/2025/10/31/trump-venezuela-strike-gop-support
+      image: https://images.axios.com/KY8IZMxLq2wIL8hSKOEtrhutmDg=/0x759:7284x4856/1366x768/2025/10/31/1761946985860.jpg
+      date: "2025-10-31T22:09:26.431424Z"
+      categories: [Axios, "🇺🇸 United States"]
+      
     - title: On Air With Ryan Seacrest
       subtitle: "Ketchup & Eggs? See Where People Settled on These Food Debates"
       path: https://onairwithryan.iheart.com/featured/ryan-seacrest/content/2025-10-20-51-on-air-with-ryan-seacrest-ketchup-eggs-see-where-people-settled-on-these/
