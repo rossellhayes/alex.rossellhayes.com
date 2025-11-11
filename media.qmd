@@ -2,6 +2,61 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: El País
+      subtitle: "El Senado de Estados Unidos rechaza una resolución para prohibir a Trump acciones militares en Venezuela"
+      author: Macarena Vidal Liy
+      path: https://elpais.com/america/2025-11-07/el-senado-de-estados-unidos-rechaza-una-resolucion-para-prohibir-a-trump-acciones-militares-en-venezuela.html
+      image: https://imagenes.elpais.com/resizer/v2/JFJP5ZGL2BJINERHCDQNJHYYIQ.jpg?auth=1c143dfcd26d49bdc952713d40ad7d58d7e1dc488b28160a2e7dd64de3e1fe2a&width=1200
+      date: "2025-11-07T05:40:00+01:00"
+      categories: [El País, "🇪🇸 Spain"]
+      
+    - title: Foreign Policy
+      subtitle: "Toppling Maduro Without Boots on the Ground"
+      author: Ryan C. Berg
+      path: https://foreignpolicy.com/2025/11/06/maduro-regime-change-collapse-trump-venezuela/
+      image: https://foreignpolicy.com/wp-content/uploads/2025/11/maduro-venezuela-GettyImages-2243316355.jpg?w=1000
+      date: "2025-11-06T05:01:31Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Guardian
+      subtitle: "US military buildup off Venezuela coast stirs echoes of 1989 Panama invasion"
+      author: Tom Phillips
+      path: https://www.theguardian.com/world/2025/nov/06/venezuela-panama-invasion-trump
+      image: https://i.guim.co.uk/img/media/51c222ad392bf36b760f770b9f849e69274f9441/501_0_2598_2078/master/2598.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cc4fc9196c0bf430f90da63c2e706a3
+      date: "2025-11-06T11:21:05.000Z"
+      categories: [The Guardian, "🇺🇸 United States"]
+      
+    - title: Diario Red
+      subtitle: "Trump duda sobre una intervención en Venezuela mientras sus partidarios se dividen entre halcones y aislacionistas"
+      author: Bruno Sgarzini
+      path: https://www.diario-red.com/articulo/internacional/trump-duda-intervencion-venezuela-mientras-partidarios-dividen-entre-halcones-aislacionistas/20251110100000057742.html
+      image: https://i.dailymail.co.uk/1s/2025/08/29/03/101651303-15045415-image-a-13_1756434991924.jpg
+      date: "2025-11-10T10:00:00+01:00"
+      categories: ["🇪🇸 Spain"]
+      
+    - title: VRT NWS
+      subtitle: "Verenigde Staten bouwen militaire uitvalsbasis uit op Amerikaanse eilanden nabij Venezuela"
+      author: Freek Willems
+      path: https://www.vrt.be/vrtnws/nl/2025/11/03/verenigde-staten-venezuela-militaire-opbouw/
+      image: https://images.vrt.be/vrtnws_share/2025/11/03/b989ffc8-c06a-4296-84a7-7370a56dde79.jpg
+      date: "2025-11-03T17:16:26+01:00"
+      categories: ["🇧🇪 Belgium"]
+      
+    - title: The Atlantic
+      subtitle: "Voters Who Oppose Wars of Choice Have Nowhere to Turn"
+      author: Conor Friedersdorf
+      path: https://www.theatlantic.com/newsletters/2025/11/anti-war-voters-have-nowhere-to-turn/684850/
+      image: https://cdn.theatlantic.com/thumbor/-mq019XJVjRxcyawx1YQYG-WJR4=/0x36:1759x952/1200x625/media/newsletters/2025/11/2025_11_06_The_Daily_Voters_Who_Oppose_Wars_of_Choice_Have_Nowhere_to_Turn/original.jpg
+      date: "2025-11-06T22:26:00Z"
+      categories: [The Atlantic, "🇺🇸 United States"]
+      
+    - title: Houston Chronicle
+      subtitle: "MAGA should tell Trump: No war in Venezuela. Put America First. | Editorial"
+      path: https://www.houstonchronicle.com/opinion/editorials/article/no-war-in-venezeula-maga-iraq-war-trump-bush-21144725.php
+      image: https://s.hdnux.com/photos/01/22/31/14/21599032/4/rawImage.jpg
+      date: "2025-11-10T18:54:00Z"
+      categories: ["🇺🇸 United States"]
+      
     - title: The Hill
       subtitle: "Americans more likely to oppose boat strikes, military invasion of Venezuela: Survey"
       author: Surina Venkat

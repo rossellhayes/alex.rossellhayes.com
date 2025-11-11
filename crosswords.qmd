@@ -2,6 +2,12 @@
 title: "Crosswords"
 listing:
   contents:
+    - title: "Musical Sentences"
+      path: https://avxwords.com/puzzles/1935/
+      image: crossword_grids/musical_sentences.png
+      date: "2025-11-10"
+      categories: [Lil AVCX]
+      
     - title: "Counter Arguments"
       path: https://avxwords.com/puzzles/1891/
       image: crossword_grids/counter_arguments.png
