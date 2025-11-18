@@ -2,6 +2,12 @@
 title: "Articles"
 listing:
   contents:
+    - title: "Majorities of Americans disapprove of ICE and say the agency mistreats citizens and immigrants"
+      path: https://today.yougov.com/politics/articles/53394-majorities-of-americans-disapprove-of-ice
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2239242020.original.jpg?pw=1200
+      date: "2025-11-14T19:29:34.425729Z"
+      categories: [Polling, Experiments, Immigration]
+      
     - title: "The U.S. Navy deployment near Venezuela has become even less popular in the past month"
       author: with Taylor Orth
       path: https://today.yougov.com/international/articles/53298-the-us-navy-deployment-near-venezuela-has-become-even-less-popular
@@ -13,7 +19,7 @@ listing:
       path: https://today.yougov.com/politics/articles/53203-is-there-a-war-in-american-cities
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2240388025.original.jpg
       date: "2025-10-17T18:12:49.174338Z"
-      categories: [Polling, Methodology, Politics, Military]
+      categories: [Polling, Experiments, Politics, Military]
     
     - title: "Accounting for taste: 12 food fights that split Americans"
       path: https://today.yougov.com/society/articles/53202-accounting-for-taste-12-food-fights-that-split-americans
@@ -121,7 +127,7 @@ listing:
       path: https://today.yougov.com/politics/articles/51846-what-americans-think-about-immigrants-depends-on-how-you-ask-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/immigration_GettyImages-1187191536_copy.original.jpg
       date: "2025-03-18"
-      categories: [Polling, Methodology, Politics, Immigration]
+      categories: [Polling, Experiments, Politics, Immigration]
       
     - title: "Support for women serving in military combat roles is widespread and growing"
       path: https://today.yougov.com/politics/articles/51835-support-for-women-military-combat-roles-widespread-growing-poll

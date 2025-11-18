@@ -2,6 +2,29 @@
 title: "Media coverage"
 listing:
   contents:
+    - title: Telemundo Houston
+      subtitle: "Encuesta YouGov: mayoría de estadounidenses rechaza tácticas de ICE por excesivas"
+      path: https://www.telemundohouston.com/video/noticias/encuesta-yougov-mayoria-de-estadounidenses-rechaza-tacticas-de-ice-por-excesivas/2528004/
+      image: https://media.telemundohouston.com/2025/11/43558296302-1080pnbcstations.jpg?quality=85&strip=all&resize=1200%2C675
+      date: "2025-11-17T22:44:57Z"
+      categories: ["☞ Interview", Telemundo, "🇺🇸 United States"]
+      
+    - title: Khasokhas
+      subtitle: "एक सर्वेक्षणको निष्कर्ष – आइसको कारबाहीप्रति अधिकांश अमेरिकी नागरिक असन्तुष्ट"
+      author: "सुरज घिमिरे"
+      path: https://www.khasokhas.com/226107
+      image: https://i0.wp.com/www.khasokhas.com/wp-content/uploads/2025/08/ICE-Police.jpg?fit=1024%2C557&ssl=1
+      date: "2025-11-16T16:20:08+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: International Business Times
+      subtitle: "Most Americans Disapprove of ICE Tactics as Poll Shows Broad Concern Over Excessive Force and Wrongful Arrests"
+      author: "Pedro Camacho"
+      path: https://www.ibtimes.com/most-americans-disapprove-ice-tactics-poll-shows-broad-concern-over-excessive-force-wrongful-3790559
+      image: https://d.ibtimes.com/en/full/4634117/ice-recruitment.jpg
+      date: "2025-11-17T17:37:08-05:00"
+      categories: ["🇺🇸 United States"]
+      
     - title: El País
       subtitle: "El Senado de Estados Unidos rechaza una resolución para prohibir a Trump acciones militares en Venezuela"
       author: Macarena Vidal Liy
