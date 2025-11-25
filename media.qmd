@@ -1,7 +1,31 @@
 ---
 title: "Media coverage"
 listing:
-  contents:
+  contents: 
+    - title: Strength in Numbers
+      subtitle: "Two new polls show learning about Trump's policies moves public opinion toward Democrats"
+      author: "G. Elliott Morris"
+      path: https://www.gelliottmorris.com/p/two-new-polls-find-learning-about
+      image: https://substackcdn.com/image/fetch/$s_!TVQe!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7ed17f7-4f7d-4cbc-b60a-8d505d9a96bd_1364x1268.heic
+      date: "2025-11-23T07:30:44-05:00"
+      categories: [Strength in Numbers, "🇺🇸 United States"]
+      
+    - title: adn Noticias
+      subtitle: "Más de la mitad de estadounidenses rechaza las tácticas del ICE contra migrantes"
+      author: "Jackelin Diaz"
+      path: https://www.adn40.mx/enlace-latino/2025-11-17/53-estadounidenses-desaprueba-al-ice
+      image: https://tvazteca.brightspotcdn.com/dims4/default/efafe79/2147483647/strip/true/crop/1300x683+0+25/resize/1200x630!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2d%2Fc7%2F04bedd034f1abb20c65d5fed1cc8%2Fice-3.png
+      date: "2025-11-17T13:52:58-06:00"
+      categories: ["🇲🇽 Mexico"]
+      
+    - title: Lyden av Norge
+      subtitle: "Over en halv million deportert fra USA"
+      author: "Ida Gjellerud"
+      path: https://www.lydenavnorge.no/p4/nyheter/over-en-halv-million-deportert-fra-usa/artikkel/983194/
+      image: https://ddjh0q34m0xak.cloudfront.net/mmo/images/2025/11/18851a35-60a0-46a3-8920-513c9e9dda0f.jpg
+      date: "2025-11-20"
+      categories: ["🇳🇴 Norway"]
+      
     - title: Telemundo Houston
       subtitle: "Encuesta YouGov: mayoría de estadounidenses rechaza tácticas de ICE por excesivas"
       path: https://www.telemundohouston.com/video/noticias/encuesta-yougov-mayoria-de-estadounidenses-rechaza-tacticas-de-ice-por-excesivas/2528004/
