@@ -10,6 +10,22 @@ listing:
       date: "2025-11-23T07:30:44-05:00"
       categories: [Strength in Numbers, "🇺🇸 United States"]
       
+    - title: Krautreporter
+      subtitle: "Für Trump läuft es schlecht – braucht er deshalb einen Krieg?"
+      author: "Benjamin Hindrichs"
+      path: https://krautreporter.de/politik-und-macht/6141-fur-trump-lauft-es-schlecht-braucht-er-deshalb-einen-krieg#lesen
+      image: https://krautreporter.gumlet.io/system/article/teaser_image/6141/myko-makhlai-7Q87y4X8Rhk-unsplash.png?h=630&amp;mode=crop&amp;w=1200
+      date: "2025-11-26"
+      categories: ["🇩🇪 Germany"]
+      
+    - title: Washington Examiner
+      subtitle: "Majority of country disapproves of ICE operations, poll shows"
+      author: "Benjamin Hindrichs"
+      path: https://www.washingtonexaminer.com/policy/immigration/3888736/majority-americans-disapprove-ice-operations-poll/
+      image: https://www.washingtonexaminer.com/wp-content/uploads/2025/09/iceoutofla.jpeg?resize=1200,683
+      date: "2025-11-16T19:31:12+00:00"
+      categories: ["🇺🇸 United States"]
+      
     - title: adn Noticias
       subtitle: "Más de la mitad de estadounidenses rechaza las tácticas del ICE contra migrantes"
       author: "Jackelin Diaz"
@@ -280,9 +296,9 @@ listing:
       categories: [MSNBC, "🇺🇸 United States"]
     
     - title: Erie News Now
-      subtitle: "Jeopardy Contestant From Erie on Show This Week"
+      subtitle: "Contestant From Erie on Jeopardy"
       author: Lisa Adams
-      path: https://www.erienewsnow.com/story/53085572/jeopardy-contestant-from-erie-on-show-this-week
+      path: https://www.erienewsnow.com/contestant-from-erie-on-jeopardy/video_93fdd0cc-75c0-513f-8cba-4b7fd438eff8.html
       image: https://WICU.images.worldnow.com/images/26739334_G.jpg
       date: "2025-09-15T18:10:00-04:00"
       categories: ["☞ Interview", "🇺🇸 United States"]

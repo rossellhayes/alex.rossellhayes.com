@@ -2,11 +2,23 @@
 title: "Articles"
 listing:
   contents:
+    - title: "Only one-third of Americans support eliminating dual citizenship"
+      path: https://today.yougov.com/politics/articles/53679-only-one-third-of-americans-support-eliminating-dual-citizenship
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2222849912.original.jpg?pw=1200
+      date: "2025-12-08T15:29:30.828789Z"
+      categories: [Polling, Experiments, Immigration, Politics]
+      
+    - title: "Americans contemplate a post-penny future"
+      path: https://today.yougov.com/economy/articles/53656-americans-contemplate-a-post-penny-future
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2245829889.original.jpg?pw=1200
+      date: "2025-12-05T20:46:24.553177Z"
+      categories: [Polling, Politics, Money]
+      
     - title: "Majorities of Americans disapprove of ICE and say the agency mistreats citizens and immigrants"
       path: https://today.yougov.com/politics/articles/53394-majorities-of-americans-disapprove-of-ice
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2239242020.original.jpg?pw=1200
       date: "2025-11-14T19:29:34.425729Z"
-      categories: [Polling, Experiments, Immigration]
+      categories: [Polling, Experiments, Immigration, Politics]
       
     - title: "The U.S. Navy deployment near Venezuela has become even less popular in the past month"
       author: with Taylor Orth
