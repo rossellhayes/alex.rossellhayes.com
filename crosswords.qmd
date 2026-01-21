@@ -2,6 +2,12 @@
 title: "Crosswords"
 listing:
   contents:
+    - title: "Turnabout Is Fair Play"
+      path: https://avxwords.com/download-puzzle/?id=1958
+      image: crossword_grids/turnabout_is_fair_play.png
+      date: "2025-12-16"
+      categories: [Lil AVCX]
+      
     - title: "Musical Sentences"
       path: https://avxwords.com/puzzles/1935/
       image: crossword_grids/musical_sentences.png

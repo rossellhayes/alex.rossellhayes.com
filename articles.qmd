@@ -2,6 +2,25 @@
 title: "Articles"
 listing:
   contents:
+    - title: "Many Americans support Iranian protesters but few want U.S. military involvement in Iran"
+      path: https://today.yougov.com/international/articles/53927-many-americans-support-iranian-protesters-but-few-want-us-military-involvement-in-iran
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2256429138.original.jpg?pw=1200
+      date: "2026-01-21T16:05:43.995543Z"
+      categories: [Polling, Politics, Foreign policy, Military]
+      
+    - title: "Most Americans remain opposed to seizing Greenland with military force"
+      path: https://today.yougov.com/politics/articles/53897-most-americans-remain-opposed-to-seizing-greenland-with-military-force
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2207639157.original.jpg?pw=1200
+      date: "2026-01-15T16:33:20.186745Z"
+      categories: [Polling, Politics, Greenland, Foreign policy, Military]
+      
+    - title: "After the shooting in Minneapolis, majorities of Americans view ICE unfavorably and support major changes to the agency"
+      author: with Taylor Orth
+      path: https://today.yougov.com/politics/articles/53892-after-the-shooting-in-minneapolis-majorities-of-americans-view-ice-unfavorably-and-support-major-changes-to-the-agency
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2256091466.original.jpg?pw=1200
+      date: "2026-01-14T19:03:00.770699Z"
+      categories: [Polling, Politics, Immigration, ICE]
+      
     - title: "Only one-third of Americans support eliminating dual citizenship"
       path: https://today.yougov.com/politics/articles/53679-only-one-third-of-americans-support-eliminating-dual-citizenship
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2222849912.original.jpg?pw=1200
@@ -18,7 +37,7 @@ listing:
       path: https://today.yougov.com/politics/articles/53394-majorities-of-americans-disapprove-of-ice
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2239242020.original.jpg?pw=1200
       date: "2025-11-14T19:29:34.425729Z"
-      categories: [Polling, Experiments, Immigration, Politics]
+      categories: [Polling, Experiments, Politics, Immigration, ICE]
       
     - title: "The U.S. Navy deployment near Venezuela has become even less popular in the past month"
       author: with Taylor Orth

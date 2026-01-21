@@ -2,6 +2,126 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: OKO.press
+      subtitle: "Trump zaprasza Nawrockiego do Rady Pokoju. Chodzi o Bliski Wschód"
+      author: "Natalia Sawka"
+      path: https://oko.press/na-zywo/na-zywo-relacja/trump-zaprasza-nawrockiego-do-rady-pokoju-chodzi-o-bliski-wschod
+      image: https://cdn.oko.press/cdn-cgi/image/trim=210;0;224;0,width=1200,quality=75/https://cdn.oko.press/2025/08/nawrocki-trump.jpeg
+      date: "2026-01-19T17:09:40+00:00"
+      categories: ["🇵🇱 Poland"]
+      
+    - title: European Council on Foreign Relations
+      subtitle: "Keep ice cool: How Europeans should respond to Trump’s Greenland tariff threats"
+      author: "Agathe Demarais"
+      path: https://ecfr.eu/article/keep-ice-cool-how-europeans-should-respond-to-trumps-greenland-tariff-threats/
+      image: https://ecfr.eu/wp-content/uploads/2026/01/569648960-scaled.jpg
+      date: "2026-01-20T09:33:56+01:00"
+      categories: ["🇪🇺 European Union"]
+      
+    - title: International Business Times
+      subtitle: "Danish Lawmaker Tells Trump 'F--k Off' Before Being Cut Off Mid-Speech"
+      author: "Matias Civita"
+      path: https://www.ibtimes.com/danish-lawmaker-tells-trump-f-k-off-before-being-cut-off-mid-speech-3795772
+      image: https://d.ibtimes.com/en/full/4641095/trump-anders.png
+      date: "2026-01-20T14:58:27-05:00"
+      categories: [International Business Times, "🇺🇸 United States"]
+      
+    - title: American Community Media
+      subtitle: "Greenland’s Indigenous Lens on U.S. Power: Why History Matters"
+      author: "David Pham"
+      path: https://americancommunitymedia.org/news-exchange/greenlands-indigenous-lens-on-u-s-power-why-history-matters/
+      image: https://americancommunitymedia.org/wp-content/uploads/2026/01/Indigenous-greenland.png
+      date: "2026-01-20T05:36:54+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Strength in Numbers
+      subtitle: "Americans say Trump has the wrong priorities"
+      author: "G. Elliott Morris"
+      path: https://www.gelliottmorris.com/p/americans-say-trump-has-the-wrong
+      image: https://substackcdn.com/image/fetch/$s_!865E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9847047f-98ec-48fc-8910-0ec2e1eab1f5_1860x1522.png
+      date: "2026-01-18T07:02:51-05:00"
+      categories: [Strength in Numbers, "🇺🇸 United States"]
+      
+    - title: Le Monde
+      subtitle: "Groenland : Donald Trump affirme que les dirigeants européens ne vont pas « résister beaucoup » à son projet de s’emparer du territoire autonome danois"
+      author: "Christophe Sales and Aurélie Collas"
+      path: https://www.lemonde.fr/international/live/2026/01/20/en-direct-groenland-donald-trump-affirme-que-les-dirigeants-europeens-ne-vont-pas-resister-beaucoup-a-son-projet-de-s-emparer-du-territoire-autonome-danois_6662929_3210.html
+      image: https://img.lemde.fr/2026/01/17/191/0/7008/3504/1440/720/60/0/7ac1600_upload-1-vtynhsl4hxvg-olm-groenland-70.jpg
+      date: "2026-01-20T05:51:14+00:00"
+      categories: [Le Monde, "🇫🇷 France"]
+      
+    - title: Daily Mail
+      subtitle: "Megyn Kelly sounds alarm over ICE enforcement and warns it could damage Trump's midterm chances"
+      author: "James Cirrone"
+      path: https://www.dailymail.co.uk/news/article-15470319/megyn-kelly-warns-republicans-ice-shooting-midterms.html
+      image: https://i.dailymail.co.uk/1s/2026/01/16/16/105577397-0-image-m-42_1768581223436.jpg
+      date: "2026-01-16T16:49:17+0000"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The New Republic
+      subtitle: "Trump Already Gave Us the Blueprint for Abolishing ICE"
+      author: "Matt Ford"
+      path: https://newrepublic.com/article/205312/trump-created-blueprint-abolish-ice
+      image: https://images.newrepublic.com/764312e45ca69d04cf47b94f8158c4cee904d77c.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg
+      date: "2026-01-15T06:00:00.000-05:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Washington Monthly
+      subtitle: "Another Way Republicans Are Overplaying Their Hand on Immigration"
+      author: "Gillen Tener Martin"
+      path: https://washingtonmonthly.com/2026/01/16/dual-citizenship-melania-barron-trump/
+      image: https://washingtonmonthly.com/wp-content/uploads/2026/01/AP25020740973870-scaled.jpg
+      date: "2026-01-16T10:00:00+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Boston Globe
+      subtitle: "At Massachusetts stores, the demise of the penny is adding up to one big headache"
+      author: Dana Gerber
+      path: https://www.bostonglobe.com/2026/01/14/business/penny-shortages-massachusetts-rounding/
+      image: https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/IBGP72Q2FJAV34IHEADBKTAVYQ.jpg?auth=af7f99c812a2d556f96894fba41befd5a422ab88175d20645acfed244ab11753&width=1440
+      date: "2026-01-14T21:22:22.793Z"
+      categories: [Boston Globe, "🇺🇸 United States"]
+      
+    - title: CNN
+      subtitle: "‘Grab what you can:’ The global rush for second passports"
+      author: "Julia Buckley"
+      path: https://www.cnn.com/travel/us-dual-citizenship-facts-explained
+      image: https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2210747606.jpg?c=16x9&q=w_800,c_fill
+      date: "2026-01-05T14:24:09.654Z"
+      categories: [CNN, "🇺🇸 United States"]
+      
+    - title: CNN en Español
+      subtitle: "La carrera global por los segundos pasaportes y la doble nacionalidad"
+      author: "Julia Buckley"
+      path: https://cnnespanol.cnn.com/2026/01/05/viajes/carrera-segundos-pasaportes-doble-nacionalidad-trax
+      image: https://media.cnn.com/api/v1/images/stellar/prod/pasaportes-del-mundo.jpg?c=16x9&q=w_800,c_fill
+      date: "2026-01-05T18:56:51.530Z"
+      categories: [CNN, "🇺🇸 United States"]
+      
+    - title: International Business Times
+      subtitle: "Why Is Everyone Getting Double Passports? Expert Says Dual Citizenship 'No-Brainer For Those Who Are Eligible'"
+      author: "Glory Moralidad "
+      path: https://www.ibtimes.co.uk/why-everyone-getting-double-passports-expert-says-dual-citizenship-no-brainer-those-who-are-1768853
+      image: https://d.ibtimes.co.uk/en/full/1759958/passport-american-flag.jpg
+      date: "2026-01-06T15:00:03+00:00"
+      categories: [International Business Times, "🇬🇧 United Kingdom"]
+      
+    - title: WXVU
+      subtitle: "Analysis: Bernie Moreno moves to ban dual citizenship. 'It's all or nothing,' he says"
+      author: "Howard Wilkinson"
+      path: https://www.wvxu.org/politics/2025-12-18/analysis-bernie-moreno-dual-citizenship-ban
+      image: https://npr.brightspotcdn.com/dims4/default/6c195aa/2147483647/strip/true/crop/7784x4087+0+551/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2Fe4%2F65331d0b46dd911bc5ab087b6202%2Fap24192770478594.jpg
+      date: "2025-12-18T04:31:00Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Local
+      subtitle: "'I feel alienated': American dual nationals in Europe ready to renounce citizenship"
+      author: "Lana O'Sullivan"
+      path: https://www.thelocal.com/20251213/i-feel-alienated-american-dual-nationals-in-europe-ready-to-renounce-citizenship
+      image: https://assets.thelocal.com/cdn-cgi/rs:fit:1200/quality:75/plain/https://apiwp.thelocal.com/wp-content/uploads/2025/11/watermarks-logo-Reader-insights-4-1.jpg@webp
+      date: "2025-12-13T12:06:30+01:00"
+      categories: ["🇨🇭 Switzerland"]
+      
     - title: Strength in Numbers
       subtitle: "Two new polls show learning about Trump's policies moves public opinion toward Democrats"
       author: "G. Elliott Morris"
@@ -63,7 +183,7 @@ listing:
       path: https://www.ibtimes.com/most-americans-disapprove-ice-tactics-poll-shows-broad-concern-over-excessive-force-wrongful-3790559
       image: https://d.ibtimes.com/en/full/4634117/ice-recruitment.jpg
       date: "2025-11-17T17:37:08-05:00"
-      categories: ["🇺🇸 United States"]
+      categories: [International Business Times, "🇺🇸 United States"]
       
     - title: El País
       subtitle: "El Senado de Estados Unidos rechaza una resolución para prohibir a Trump acciones militares en Venezuela"
