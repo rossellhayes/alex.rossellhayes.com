@@ -15,7 +15,7 @@ listing:
       image: https://pkg.rossellhayes.com/crossmap/reference/figures/logo.png?raw=TRUE
       description: "Apply functions to all combinations of list elements"
       date: "2020-09-01"
-      date-modified: "2025-04-23"
+      date-modified: "2026-01-24"
       categories: [R]
       
     - title: "fauxnaif"
@@ -31,7 +31,7 @@ listing:
       image: https://fracture.rossellhayes.com/reference/figures/logo.png?raw=TRUE
       description: "Convert decimals to fractions"
       date: "2020-09-03"
-      date-modified: "2022-05-21"
+      date-modified: "2025-11-30"
       categories: [R]
       
     - title: "incase"
