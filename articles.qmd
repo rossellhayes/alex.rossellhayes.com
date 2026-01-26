@@ -2,6 +2,12 @@
 title: "Articles"
 listing:
   contents:
+    - title: "Today more Americans support than oppose abolishing ICE "
+      path: https://today.yougov.com/politics/articles/53939-more-americans-support-than-oppose-abolishing-ice-immigration-minneapolis-shooting-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/ICE_GettyImages-2257949562_copy.original.jpg?pw=1200
+      date: "2026-01-26T00:50:42.584451Z"
+      categories: [Polling, Politics, Immigration, ICE]
+      
     - title: "Many Americans support Iranian protesters but few want U.S. military involvement in Iran"
       path: https://today.yougov.com/international/articles/53927-many-americans-support-iranian-protesters-but-few-want-us-military-involvement-in-iran
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2256429138.original.jpg?pw=1200

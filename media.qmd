@@ -2,6 +2,30 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: The UnPopulist
+      subtitle: "Trump’s Attempted Greenland Grab Has Turned America Into a Predatory Power"
+      author: "Berny Belvedere"
+      path: https://www.theunpopulist.net/p/trumps-attempted-greenland-grab-has
+      image: https://substackcdn.com/image/fetch/$s_!avsQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc2b4b77-1415-4c39-a4c6-a88b6e670135_1920x1331.heic
+      date: "2026-01-21T17:26:43-05:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Segunda Base
+      subtitle: "Por que ninguém para de mascarar o gelo?"
+      author: "Débora Ribeiro"
+      path: https://www.segundabase.com.br/noticias/por-que-ninguem-para-de-mascarar-o-gelo/75894/
+      image: https://www.segundabase.com.br/wp-content/uploads/2026/01/268266_unmasking_ICE__CVirginia.jpg
+      date: "2026-01-25T23:37:14+00:00"
+      categories: ["🇧🇷 Brazil"]
+      
+    - title: Los Angeles Magazine
+      subtitle: "“Blank Check for Cruelty”: California Democrats Slam ICE Funding Bill After Seven Colleagues Break Ranks"
+      author: "Aidan Williams"
+      path: https://lamag.com/immigration/blank-check-for-cruelty-california-democrats-slam-ice-funding-bill-after-seven-colleagues-break-ranks/
+      image: https://lamag.com/wp-content/uploads/2023/04/jimmy-gomez-tom-williams-pool-gettyimages-1228188321-1.jpg
+      date: "2026-01-23T22:11:34+00:00"
+      categories: ["🇺🇸 United States"]
+      
     - title: OKO.press
       subtitle: "Trump zaprasza Nawrockiego do Rady Pokoju. Chodzi o Bliski Wschód"
       author: "Natalia Sawka"
