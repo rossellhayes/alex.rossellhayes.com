@@ -2,6 +2,14 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: Common Dreams
+      subtitle: "Architect of DHS Calls Out the Agency’s ‘Lawlessness, Fascism, and Cruelty’"
+      author: "Stephen Prager"
+      path: https://www.commondreams.org/news/dhs-architect-calls-out-ice-fascism
+      image: https://www.commondreams.org/media-library/image.jpg?id=63270998&width=1200&height=600&coordinates=0%2C415%2C0%2C416
+      date: "2026-01-26T16:42:25Z"
+      categories: ["🇺🇸 United States"]
+      
     - title: MS NOW
       subtitle: "The Tea, Spilled by Morning Joe: ‘A wake-up call to every American’"
       author: "Joe Scarborough"
