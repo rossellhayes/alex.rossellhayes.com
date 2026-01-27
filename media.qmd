@@ -2,6 +2,14 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: NJ.com
+      subtitle: "New poll: Here’s where Americans now stand on ICE"
+      author: "Rachel Cohen"
+      path: hhttps://www.nj.com/politics/2026/01/new-poll-heres-where-americans-now-stand-on-ice.html
+      image: https://www.nj.com/resizer/v2/3E7LK3HCEBHO7PH6ZMGYM7MQ2I.jpg?auth=8da32c2919a03e8efa1ce117028a56043336ff406f9af0943c470fddfb100390&width=1280&smart=true&quality=90
+      date: "2026-01-26T15:40:50.414Z"
+      categories: ["🇺🇸 United States"]
+      
     - title: Common Dreams
       subtitle: "Architect of DHS Calls Out the Agency’s ‘Lawlessness, Fascism, and Cruelty’"
       author: "Stephen Prager"
