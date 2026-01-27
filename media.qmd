@@ -2,6 +2,62 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: MS NOW
+      subtitle: "The Tea, Spilled by Morning Joe: ‘A wake-up call to every American’"
+      author: "Joe Scarborough"
+      path: https://www.ms.now/morning-joe/the-tea-spilled-by-morning-joe-a-wake-up-call-to-every-american
+      image: https://www.ms.now/wp-content/uploads/2026/01/Martyred.png?w=1200&h=630&crop=1
+      date: "2026-01-26T19:33:58+00:00"
+      categories: ["MS NOW", "🇺🇸 United States"]
+      
+    - title: Time
+      subtitle: "On Thin ICE in Minneapolis: How Trump’s Immigration Crackdown Sparked a Crisis of Trust"
+      author: "Brian Bennett"
+      path: https://time.com/7358027/ice-agents-minnesota-alex-pretti-abolish-ice/
+      image: https://api.time.com/wp-content/uploads/2026/01/GettyImages-2258017372.jpg?quality=85&w=1024&h=628&crop=1
+      date: "2026-01-26T22:32:33"
+      categories: ["Time", "🇺🇸 United States"]
+      
+    - title: Daily Beast
+      subtitle: "Poll Reveals How Little Americans Buy Trump Goons’ Claims About Deadly Nurse Shooting"
+      author: "Martha McHardy"
+      path: https://www.thedailybeast.com/poll-reveals-how-little-americans-buy-trump-goons-claims-about-deadly-nurse-shooting/
+      image: https://www.thedailybeast.com/resizer/v2/UYOBTHTXBND7ZFXBPG4U4NBVOQ.jpg?smart=true&auth=9b9b2bec3db020c52a8c323ccf29e3a76e6110fb86a1ad23ab9e92ef7e4497f7&width=1200&height=630
+      date: "2026-01-26T11:38:09.948Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Them
+      subtitle: "Billie Eilish, Meg Stalter, and All the LGBTQ+ Celebs Speaking Out Against ICE"
+      author: "Mathew Rodriguez"
+      path: https://www.them.us/story/billie-eilish-meg-stalter-muna-matt-rogers-ice-criticism-lgbtq-celebrities
+      image: https://media.them.us/photos/69779d2a545a225919c88026/16:9/w_1280,c_limit/2256824361
+      date: "2026-01-26T17:15:49.351Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: UNILAD
+      subtitle: "New poll reveals whether Americans really think ICE should be abolished"
+      author: "Niamh Shackleton"
+      path: https://www.unilad.com/news/us-news/poll-reveals-people-want-to-abolish-ice-794746-20260127
+      image: https://images.ladbible.com/resize?type=webp&quality=70&width=1080&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/blt949ea8e16e463049/bltf7058265d979b86a/6978be86963b812bb3f6a2c5/new-poll-ice-abolished.png
+      date: "2026-01-27T13:55:51.865Z"
+      categories: ["🇬🇧 United Kingdom"]
+      
+    - title: NBC News
+      subtitle: "Rise in support for abolishing ICE, poll suggests"
+      author: "Alexander Smith"
+      path: https://www.nbcnews.com/news/us-news/live-blog/live-updates-alex-pretti-shooting-minneapolis-rcna255859/rcrd97663?canonicalCard=true
+      image: https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260125-minneapolis-cc-0808p-06a9fb.jpg
+      date: "2026-01-26T04:24:00-05:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Straight Arrow News
+      subtitle: "How sending ‘border czar’ to Minnesota could change immigration crackdown"
+      author: "Devin Pavlou"
+      path: https://san.com/cc/how-sending-border-czar-to-minnesota-could-change-immigration-crackdown/
+      image: https://san.com/wp-content/uploads/2026/01/Untitled-design-2026-01-26T110657.067.jpg
+      date: "2026-01-26T19:31:29+00:00"
+      categories: ["🇺🇸 United States"]
+      
     - title: The UnPopulist
       subtitle: "Trump’s Attempted Greenland Grab Has Turned America Into a Predatory Power"
       author: "Berny Belvedere"
@@ -431,13 +487,13 @@ listing:
       date: "2025-09-25T14:36:20+00:00"
       categories: ["🇺🇸 United States"]
       
-    - title: MSNBC
+    - title: MS NOW
       subtitle: "The grand 'treaty' that could derail GOP gerrymandering"
       author: Greta Bedekovics
-      path: https://www.msnbc.com/opinion/msnbc-opinion/republican-gerrymandering-2026-redistricting-commissions-rcna231660
+      path: https://www.ms.now/opinion/msnbc-opinion/republican-gerrymandering-2026-redistricting-commissions-rcna231660
       image: https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2025_09/1757789978183_n_velshi_Gerrymandering_Redistricting_Kansas_RepresentativeShariceDavids_250913_1920x1080-g18ngf.jpg
       date: "2025-09-16T16:01:00-04:00"
-      categories: [MSNBC, "🇺🇸 United States"]
+      categories: [MS NOW, "🇺🇸 United States"]
     
     - title: Erie News Now
       subtitle: "Contestant From Erie on Jeopardy"
@@ -622,13 +678,13 @@ listing:
       date: "2025-05-30"
       categories: [Reader's Digest, "🇺🇸 United States"]
       
-    - title: MSNBC
+    - title: MS NOW
       subtitle: "It's ‘common cents’: Treasury Department set to halt penny production"
       author: Allison Detzel
-      path: https://www.msnbc.com/top-stories/latest/treasury-stop-minting-penny-one-cent-piece-coin-rcna208592
+      path: https://www.ms.now/top-stories/latest/treasury-stop-minting-penny-one-cent-piece-coin-rcna208592
       image: https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-05/250522-pennies-ch-1440-e509c2.jpg
       date: "2025-05-23T15:24:00-04:00"
-      categories: [MSNBC, "🇺🇸 United States"]
+      categories: [MS NOW, "🇺🇸 United States"]
       
     - title: Novinky.cz
       subtitle: "Kanye West vydal píseň s názvem Heil Hitler"
