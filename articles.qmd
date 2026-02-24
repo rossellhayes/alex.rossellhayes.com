@@ -2,7 +2,43 @@
 title: "Articles"
 listing:
   contents:
-    - title: "Today more Americans support than oppose abolishing ICE "
+    - title: "Few Americans support U.S. military action against Iran, but a majority think it's likely"
+      path: https://today.yougov.com/politics/articles/54158-few-americans-support-usa-military-action-against-iran-majority-think-it-is-likely-february-20-23-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Iran_photo_GettyImages-2262302141_copy.original.jpg?pw=1200
+      date: "2026-02-24T20:20:18.655331Z"
+      categories: [Polling, Politics, Foreign policy, Military]
+      
+    - title: "Americans are divided about the state of race relations and how successful the civil rights movement has been"
+      path: https://today.yougov.com/politics/articles/54159-americans-divided-about-state-of-race-relations-how-successful-civil-rights-movement-has-been-february-20-23-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Jackson_GettyImages-153856777_copy.original.jpg?pw=1200
+      date: "2026-02-24T20:13:23.989472Z"
+      categories: [Polling, Politics, Race]
+      
+    - title: "Many Americans like the concept of TrumpRx, but the name turns off some of them"
+      path: https://today.yougov.com/politics/articles/54126-many-americans-like-the-concept-of-trumprx-but-the-name-turns-off-some-of-them
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2260134571.original.jpg?pw=1200
+      date: "2026-02-17T23:06:06.081816Z"
+      categories: [Polling, Experiments, Politics]
+      
+    - title: "By a two-to-one margin, Americans approve of ending the immigration enforcement surge in Minnesota"
+      path: https://today.yougov.com/politics/articles/54120-by-two-to-one-margin-americans-approve-ending-immigration-enforcement-surge-in-minnesota-february-13-16-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/ICE_GettyImages-2261279822_copy.original.jpg?pw=1200
+      date: "2026-02-17T20:42:35.288982Z"
+      categories: [Polling, Politics, Immigration, ICE]
+      
+    - title: "Most Americans say AI will reduce the number of jobs in the U.S."
+      path: https://today.yougov.com/technology/articles/54123-most-americans-say-ai-artificial-intelligence-will-reduce-number-jobs-in-us-united-states-february-13-16-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/AI_GettyImages-2235804670_copy.original.jpg?pw=1200
+      date: "2026-02-17T21:06:20.303500Z"
+      categories: [Polling, Politics, AI]
+      
+    - title: "Nearly half of Americans think they'll see catastrophic impacts of climate change in their lifetimes"
+      path: https://today.yougov.com/politics/articles/54124-nearly-half-americans-think-they-will-see-catastrophic-impacts-climate-change-in-their-lifetimes-february-13-16-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/images/coal_GettyImages-2261166764_copy.original.jpg?pw=1200
+      date: "2026-02-17T21:11:56.085628Z"
+      categories: [Polling, Politics, Climate]
+      
+    - title: "Today more Americans support than oppose abolishing ICE"
       path: https://today.yougov.com/politics/articles/53939-more-americans-support-than-oppose-abolishing-ice-immigration-minneapolis-shooting-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/ICE_GettyImages-2257949562_copy.original.jpg?pw=1200
       date: "2026-01-26T00:50:42.584451Z"

@@ -2,10 +2,122 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: Tom's Guide
+      subtitle: "'Millions of Americans of every walk of life are about to see their way of life threatened' — Andrew Yang's dire prediction for AI and the workforce"
+      author: "Elton Jones"
+      path: https://www.tomsguide.com/ai/ai-will-result-in-the-great-disemboweling-of-white-collar-jobs-according-to-andrew-yang
+      image: https://cdn.mos.cms.futurecdn.net/AAZc7GTz2DUSmh2Dh4XLnf-2560-80.jpg
+      date: "2026-02-18T22:10:52Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: International Business Times
+      subtitle: "Polls Reveal What Americans Really Think of the Rapid AI Boom"
+      author: "Brian Slupski"
+      path: https://www.ibtimes.com/polls-reveal-what-americans-really-think-rapid-ai-boom-3797840
+      image: https://d.ibtimes.com/en/full/4641934/ai-efficiency-starts-data-meaning-not-model-size.jpg
+      date: "2026-02-24T11:11:05-05:00"
+      categories: [International Business Times, "🇺🇸 United States"]
+      
+    - title: Scripps News
+      subtitle: "Andrew Yang predicts AI could eliminate half of white-collar jobs"
+      author: "Justin Boggs"
+      path: https://www.scrippsnews.com/business/jobs-employment/andrew-yang-predicts-ai-could-eliminate-half-of-white-collar-jobs
+      image: https://ewscripps.brightspotcdn.com/dims4/default/9d6fdc6/2147483647/strip/true/crop/3250x1706+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fdc%2F77%2F8b0df28e498b81eff6dd32410a85%2Fap22334177252667.jpg
+      date: "2026-02-18T17:10:22.521"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Arizona Mirror
+      subtitle: "ICE at the polls: Arizona Republicans push plan to require agents at all polling places"
+      author: "Jerod MacDonald-Evoy"
+      path: https://azmirror.com/briefs/ice-at-the-polls-arizona-republicans-push-plan-to-require-agents-at-all-polling-places/
+      image: https://azmirror.com/wp-content/uploads/2026/01/oversightjan102026-2048x1384.jpg
+      date: "2026-02-18T00:05:49+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: America Friends Service Committee
+      subtitle: "What you need to know about the call to abolish ICE"
+      author: "Amy Gottlieb"
+      path: https://afsc.org/news/what-you-need-know-about-call-abolish-ice
+      image: https://afsc.org/sites/default/files/2026-01/pb_121268_free-jeanette-vigil-at-geo-scr-1.jpg
+      date: "2026-01-29"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Nation
+      subtitle: "The Republican Crack-Up Has Begun"
+      author: "Sasha Abramsky"
+      path: https://www.thenation.com/article/politics/fleeing-trump-authoritarianism/
+      image: https://www.thenation.com/wp-content/uploads/2026/02/gop-trump-podium-getty.jpg
+      date: "2026-02-13T14:36:28+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Conversation
+      subtitle: "Why the ‘Streets of Minneapolis’ have echoed with public support – unlike the campus of Kent State in 1970"
+      author: "Gregory P. Magarian"
+      path: https://theconversation.com/why-the-streets-of-minneapolis-have-echoed-with-public-support-unlike-the-campus-of-kent-state-in-1970-274917
+      image: https://images.theconversation.com/files/718893/original/file-20260217-62-4h82vb.jpg?ixlib=rb-4.1.0&amp;rect=0%2C548%2C7800%2C3900&amp;q=45&amp;auto=format&amp;w=1356&amp;h=668&amp;fit=crop
+      date: "2026-02-19T13:43:00Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: al.com
+      subtitle: "Alabama congresswoman pushes to defund ICE, impeach Noem: ‘Minneapolis today could be Birmingham tomorrow’"
+      author: "Patrick Darrington"
+      path: https://www.al.com/politics/2026/01/alabama-congresswoman-pushes-to-defund-ice-impeach-noem-minneapolis-today-could-be-birmingham-tomorrow.html
+      image: https://www.al.com/resizer/v2/ZAX4THBHCBDTZO3AANBGB6PTE4.jpg?auth=438c89f6d5ba23160985c5e359ba813bb3526fdbb13bc125c29d7e4c2df21675&amp;width=1280&amp;smart=true&amp;quality=90
+      date: "2026-01-29T21:26:41.309Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: New York Times
+      subtitle: "We’re Seeing the Weakness of a Strong State"
+      author: "Omar Wasow"
+      path: https://www.nytimes.com/2026/01/28/opinion/trump-minneapolis-ice-protest.html
+      image: https://static01.nyt.com/images/2026/01/29/multimedia/28Wasow-cqvf/28Wasow-cqvf-facebookJumbo.jpg
+      date: "2026-01-28T10:03:52.000Z"
+      categories: [New York Times, "🇺🇸 United States"]
+      
+    - title: Der Tagesspiegel
+      subtitle: "Bittere Lehren aus Minneapolis: Trotz zwei Toten wenig Bewegung in Umfragen"
+      author: "Christoph von Marschall"
+      path: https://www.tagesspiegel.de/internationales/bittere-lehren-aus-minneapolis-trotz-zwei-toten-wenig-bewegung-in-umfragen-15191108.html
+      image: https://www.tagesspiegel.de/images/15191130/alternates/BASE_16_9_W1400/1769596719000/topshot-us-immigration-ice-shooting.jpeg
+      date: "2026-01-28T18:09:21.000Z"
+      categories: ["🇩🇪 Germany"]
+      
+    - title: Die Tageszeitung
+      subtitle: "ICE-Gewalt führt zu Regierungs-Shutdown in den USA"
+      author: "Hansjürgen Mai"
+      path: https://taz.de/Nach-toedlichen-Schuessen-in-Minneapolis/!6150181/
+      image: https://taz.de/picture/8222524/1200/40268682.jpeg
+      date: "2026-02-01T10:42:00"
+      categories: ["🇩🇪 Germany"]
+      
+    - title: The Guardian
+      subtitle: "What to know about the third No Kings protests happening in March"
+      author: "Lex McMenamin"
+      path: https://www.theguardian.com/us-news/2026/jan/28/third-no-kings-protest-march-minnesota-ice
+      image: https://i.guim.co.uk/img/media/c352f7738d531fae74f1744b65a5bdf5ac99506d/1190_755_5938_4749/master/5938.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;enable=upscale&amp;s=814b95ab3396bc657c82f7d15436b4e7
+      date: "2026-01-28T21:25:12.000Z"
+      categories: [The Guardian, "🇺🇸 United States"]
+      
+    - title: Common Dreams
+      subtitle: "Arizona GOP Pushes ‘Fascist’ Bill Requiring ICE at the Polls on Election Day"
+      author: "Stephen Prager"
+      path: https://www.commondreams.org/news/arizona-gop-pushes-fascist-bill-requiring-ice-at-the-polls-on-election-day
+      image: https://www.commondreams.org/media-library/image.jpg?id=64958338&amp;width=1200&amp;height=600&amp;coordinates=0%2C166%2C0%2C167
+      date: "2026-02-18T17:14:55+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Atlantic
+      subtitle: "The Return of Athlete Outrage"
+      author: "Jemele Hill"
+      path: https://www.theatlantic.com/ideas/2026/01/athlete-outrage-minnesota-ice/685789/
+      image: https://cdn.theatlantic.com/thumbor/oxFuo172Ntme_XjwIuth0L4s-AM=/0x43:2000x1085/1200x625/media/img/mt/2026/01/2026_1_27_Sports/original.png
+      date: "2026-01-28T17:21:00Z"
+      categories: [The Atlantic, "🇺🇸 United States"]
+    
     - title: NJ.com
       subtitle: "New poll: Here’s where Americans now stand on ICE"
       author: "Rachel Cohen"
-      path: hhttps://www.nj.com/politics/2026/01/new-poll-heres-where-americans-now-stand-on-ice.html
+      path: https://www.nj.com/politics/2026/01/new-poll-heres-where-americans-now-stand-on-ice.html
       image: https://www.nj.com/resizer/v2/3E7LK3HCEBHO7PH6ZMGYM7MQ2I.jpg?auth=8da32c2919a03e8efa1ce117028a56043336ff406f9af0943c470fddfb100390&width=1280&smart=true&quality=90
       date: "2026-01-26T15:40:50.414Z"
       categories: ["🇺🇸 United States"]
