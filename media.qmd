@@ -6,7 +6,7 @@ listing:
       subtitle: "Un crimen enorme contra Irán"
       author: Ali Abunimah
       path: https://www.diario-red.com/articulo/armas-para-pensar/crimen-enorme-iran/20260302095241064953.html
-      image: https://www.diario-red.com/media/diariored/images/2026/03/02/2026030207311015071.webp
+      image: https://www.diario-red.com/asset/thumbnail,1920,1080,center,center/media/diariored/images/2026/03/02/2026030207311015071.webp
       date: "2026-03-02T09:52:41+01:00"
       categories: ["🇪🇸 Spain"]
       
