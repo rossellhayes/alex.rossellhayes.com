@@ -2,6 +2,132 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: Diario Red
+      subtitle: "Un crimen enorme contra Irán"
+      author: Ali Abunimah
+      path: https://www.diario-red.com/articulo/armas-para-pensar/crimen-enorme-iran/20260302095241064953.html
+      image: https://www.diario-red.com/media/diariored/images/2026/03/02/2026030207311015071.webp
+      date: "2026-03-02T09:52:41+01:00"
+      categories: ["🇪🇸 Spain"]
+      
+    - title: DR
+      subtitle: "Trump har startet en krig, som de fleste amerikanere hverken støtter eller forstår"
+      author: Jakob Krogh
+      path: https://www.dr.dk/nyheder/udland/analyse-trump-har-startet-en-krig-som-de-fleste-amerikanere-hverken-stoetter-eller-forstaar
+      image: https://asset.dr.dk/drdk/umbraco-images/dd4l5xey/20260301-000239-5.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29
+      date: "2026-03-01T06:27:00+00:00"
+      categories: ["🇩🇰 Denmark"]
+      
+    - title: Nexos
+      subtitle: "¿Qué buscan Estados Unidos e Israel en Irán?"
+      author: Moisés Garduño García
+      path: https://redaccion.nexos.com.mx/que-buscan-estados-unidos-e-israel-en-iran/
+      image: https://redaccion.nexos.com.mx/wp-content/uploads/2026/03/03-siria.webp
+      date: "2026-03-01"
+      categories: ["🇲🇽 Mexico"]
+      
+    - title: Tag24
+      subtitle: "I consiglieri di Trump preferirebbero che Israele attaccasse per primo l’Iran: cosa pensano gli americani di una possibile azione militare"
+      author: Nazlican Cebeci
+      path: https://sviluppo2024.tag24.it/1382425-consiglieri-di-trump-preferirebbero-che-israele-attaccasse-per-primo-iran-cosa-pensano-americani-possibile-azione-militare
+      image: https://www.tag24.it/storage/wp-content/uploads/2026/02/1772125662_tag24it-20260226180734746-31a51be0add206827f76a8f950bbda4f_800x533.webp
+      date: "2026-02-26 18:14:00"
+      categories: ["🇮🇹 Italy"]
+      
+    - title: Observador
+      subtitle: "Com eleições à porta e sem apoio interno: 23 anos depois, Estados Unidos arriscam nova guerra aberta no Médio Oriente"
+      author: Madalena Moreira
+      path: https://observador.pt/especiais/com-eleicoes-a-porta-e-sem-apoio-interno-23-anos-depois-estados-unidos-arriscam-nova-guerra-aberta-no-medio-oriente/
+      image: https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1126%3Anowe%3A0%3A37%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F02%2F04211421%2F46485050.jpg?layer=obstop:T
+      date: "2026-02-28T18:40:55+00:00"
+      categories: ["🇵🇹 Portugal"]
+      
+    - title: OKO.press
+      subtitle: "Amerykanie podzieleni w sprawie Iranu, ale w Waszyngtonie na razie górą jastrzębie"
+      author: Katarzyna Jaremko
+      path: https://oko.press/amerykanie-podzieleni-w-sprawie-iranu-ale-w-waszyngtonie-na-razie-gora-jastrzebie
+      image: https://cdn.oko.press/cdn-cgi/image/trim=369;0;393;0,width=1200,quality=75/https://cdn.oko.press/2026/03/AP26059804161792.jpg
+      date: "2026-03-01T12:00:30+00:00"
+      categories: ["🇵🇱 Poland"]
+      
+    - title: Asia Times
+      subtitle: "Top Dems reportedly work to sabotage bill to stop Trump Iran war"
+      author: Stephen Prager
+      path: https://asiatimes.com/2026/02/top-dems-reportedly-work-to-sabotage-bill-to-stop-trump-iran-war/
+      image: https://asiatimes.com/wp-content/uploads/2026/02/DSC08958-1024x683-1.jpg
+      date: "2026-02-25T19:06:10+00:00"
+      categories: ["🇭🇰 Hong Kong"]
+      
+    - title: Die Weltwoche
+      subtitle: "Trump zog ohne Rückhalt im Volk in den Krieg. Die Mehrheit der Amerikaner lehnte vor Operation «Epic Fury» eine Militärintervention im Iran klar ab. Pokert der US-Präsident zu hoch?"
+      author: Urs Gehriger
+      path: https://weltwoche.de/daily/trump-zog-ohne-rueckhalt-im-volk-in-den-krieg-die-mehrheit-der-amerikaner-lehnte-vor-operation-epic-fury-eine-militaerintervention-im-iran-klar-ab-pokert-der-us-praesident-zu-hoch/
+      image: https://weltwoche.de/wp-content/uploads/croppedImages/701867420_highres-768x512.png
+      date: "2026-03-01T17:00:36+00:00"
+      categories: ["🇨🇭 Switzerland"]
+      
+    - title: MS NOW
+      subtitle: "How my fellow lawmakers and I can try to end Trump’s new ‘war’ in Iran"
+      author: Andy Kim
+      path: https://www.ms.now/opinion/trump-iran-congress-war-power-vote
+      image: https://res.cloudinary.com/msnow/images/f_auto,q_auto/v1772323381/260228-no-war-iran-zz/260228-no-war-iran-zz.jpg?_i=AA&amp;w=1200&amp;h=630&amp;crop=1
+      date: "2026-03-01T11:00:00+00:00"
+      categories: ["MS NOW", "🇺🇸 United States"]
+      
+    - title: Boston Globe
+      subtitle: "Israel’s gamble in Iran"
+      author: Avishay Ben-Sasson-Gordis
+      path: https://www.bostonglobe.com/2026/03/02/opinion/israel-iran-attack-united-states/
+      image: https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/7EJTMNSNO3NVGCOWIBYMCB4OMQ.jpg?auth=99f117bd3c6f65f4ec29d6efbf3f3426266d9aacf7831ddf816839353d6e2eb9&amp;width=1440
+      date: "2026-03-02T18:40:12.761Z"
+      categories: ["Boston Globe", "🇺🇸 United States"]
+      
+    - title: Charleston City Paper
+      subtitle: "Trump undermines U.S. Constitution, democracy with attack on Iran"
+      author: Will McCorkle
+      path: https://charlestoncitypaper.com/2026/03/01/mccorkle-trump-undermines-u-s-constitution-democracy-with-attack-on-iran/
+      image: https://charlestoncitypaper.com/wp-content/uploads/2026/03/26.0228.epicfury_uscentralcommand.jpg
+      date: "2026-03-01T18:36:16+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: The Dispatch
+      subtitle: "Neoconservatism for Dummies"
+      author: Nick Catoggio
+      path: https://thedispatch.com/newsletter/boilingfrogs/iran-donald-trump-maga-autocracy/
+      image: https://thedispatch.com/wp-content/uploads/2026/03/TrumpMAGAHatIRAN.jpg?w=1024
+      date: "2026-03-03T16:43:51+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Stimson Center
+      subtitle: "The Risk of Ignoring Foreign Policy"
+      author: Emma Ashford
+      path: https://www.stimson.org/2026/trumps-2026-state-of-the-union-in-focus/#us-foreign-policy
+      image: https://www.stimson.org/wp-content/uploads/2026/02/40042143063_2a6a83fa94_k.jpg
+      date: "2026-02-25T17:44:52+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Foreign Policy
+      subtitle: "Trump Is Betraying His Base By Waging War on Iran"
+      author: Emma Ashford
+      path: https://foreignpolicy.com/2026/02/28/trump-voter-base-foreign-policy-war-iran/
+      image: https://foreignpolicy.com/wp-content/uploads/2026/02/GettyImages-2220140693.jpg?w=1000
+      date: "2026-02-28T20:32:42Z"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Atlantic Council
+      subtitle: "What Trump’s ‘Epic Fury’ means for Iran and the Middle East "
+      path: https://www.atlanticcouncil.org/content-series/fastthinking/what-trumps-epic-fury-means-for-iran-and-the-middle-east/
+      image: https://www.atlanticcouncil.org/wp-content/uploads/2026/02/2026-02-28T162806Z_1440135403_RC24VJA12L8N_RTRMADP_3_IRAN-CRISIS-USA-scaled.jpg
+      date: "2026-02-28T17:27:10+00:00"
+      categories: ["🇺🇸 United States"]
+      
+    - title: Atlantic Council
+      subtitle: "Experts react: The US and Israel just unleashed a major attack on Iran. What’s next?"
+      path: https://www.atlanticcouncil.org/dispatches/experts-react-the-us-and-israel-just-unleashed-a-major-attack-on-iran-whats-next/
+      image: https://www.atlanticcouncil.org/wp-content/uploads/2026/02/2026-02-28T072416Z_419490549_RC2UUJADRO6E_RTRMADP_3_IRAN-CRISIS.jpg
+      date: "2026-02-28T14:09:01+00:00"
+      categories: ["🇺🇸 United States"]
+      
     - title: Tom's Guide
       subtitle: "'Millions of Americans of every walk of life are about to see their way of life threatened' — Andrew Yang's dire prediction for AI and the workforce"
       author: "Elton Jones"
@@ -598,14 +724,6 @@ listing:
       image: https://www.democracydocket.com/wp-content/uploads/2025/09/GettyImages-2237400042-1536x1024.jpg
       date: "2025-09-26T20:10:46+00:00"
       categories: ["🇺🇸 United States"]
-      
-    - title: TKP.at
-      subtitle: "Einsatz militärischer Gewalt für Regimewechsel in Venezuela  wird von Mehrheit der Amerikaner abgelehnt"
-      author: Peter F. Mayer
-      path: https://tkp.at/2025/09/26/einsatz-militaerischer-gewalt-fuer-regimewechsel-in-venezuela-wird-von-mehrheit-der-amerikaner-abgelehnt/
-      image: https://i0.wp.com/tkp.at/wp-content/uploads/2025/09/40245542373_1faf7e6036_b.jpg
-      date: "2025-09-26T08:28:27+00:00"
-      categories: ["🇦🇹 Austria"]
       
     - title: Claro y Directo
       subtitle: "La mayoría de estadounidenses rechazan intervención militar en Venezuela según encuesta"

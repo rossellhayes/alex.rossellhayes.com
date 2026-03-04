@@ -2,6 +2,12 @@
 title: "Articles"
 listing:
   contents:
+    - title: "Support for abolishing ICE reaches 50%"
+      path: https://yougov.com/en-us/articles/54225-support-for-abolishing-ice-reaches-50-percent-february-27-march-2-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/original_images/ICE_GettyImages-2260106243_copy.jpeg
+      date: "2026-03-03T18:26:10.051678Z"
+      categories: [Polling, Politics, Immigration, ICE]
+      
     - title: "Few Americans support U.S. military action against Iran, but a majority think it's likely"
       path: https://today.yougov.com/politics/articles/54158-few-americans-support-usa-military-action-against-iran-majority-think-it-is-likely-february-20-23-2026-economist-yougov-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Iran_photo_GettyImages-2262302141_copy.original.jpg?pw=1200
