@@ -2,6 +2,22 @@
 title: "Media coverage"
 listing:
   contents: 
+    - title: New York Times
+      subtitle: "A Congressional Candidate Feared by the Tech Oligarchs"
+      author: Michelle Goldberg
+      path: https://www.nytimes.com/2026/02/23/opinion/alex-bores-ai-democrats.html
+      image: https://static01.nyt.com/images/2026/02/27/multimedia/23goldberg-jtbc/23goldberg-jtbc-facebookJumbo.jpg
+      date: "2026-02-24T00:07:04.000Z"
+      categories: [New York Times, "🇺🇸 United States"]
+      
+    - title: Axios
+      subtitle: "Behind the Curtain: AI's biggest threats"
+      author: Jim VandeHei and Mike Allen
+      path: https://www.axios.com/2026/02/24/ai-biggest-threats-2028-election
+      image: hhttps://images.axios.com/a5Hp6dYXV9v5eMW14YjP-5Ezh_k=/0x0:1920x1080/1366x768/2026/02/23/1771878419622.jpeg
+      date: "2026-02-24T10:36:46Z"
+      categories: [Axios, "🇺🇸 United States"]
+      
     - title: Diario Red
       subtitle: "Un crimen enorme contra Irán"
       author: Ali Abunimah

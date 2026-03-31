@@ -2,6 +2,36 @@
 title: "Articles"
 listing:
   contents:
+    - title: "Republicans get more blame than Democrats for the partial shutdown"
+      path: https://yougov.com/en-us/articles/54455-republicans-get-more-blame-than-democrats-for-partial-government-shutdown-tsa-ice-march-27-30-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/original_images/airport_line_GettyImages-2268615250_copy.jpeg
+      date: "2026-03-31"
+      categories: [Polling, Politics]
+      
+    - title: "Nearly all Americans say the conflict with Iran is raising gas prices, but few expect Trump to back down"
+      path: https://yougov.com/en-us/articles/54392-nearly-all-americans-say-conflict-with-iran-is-raising-gas-prices-few-expect-donald-trump-to-back-down-march-20-23-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/original_images/gas_prices_GettyImages-2267072114_copy.jpeg
+      date: "2026-03-24"
+      categories: [Polling, Politics, Foreign policy, Military]
+      
+    - title: "More Americans disapprove than approve of the U.S. blocking oil shipments to Cuba and the U.S. embargo"
+      path: https://yougov.com/en-us/articles/54332-more-americans-disapprove-than-approve-of-the-us-blocking-oil-shipments-to-cuba-and-the-us-embargo
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/original_images/GettyImages-1201625792.jpg
+      date: "2026-03-16"
+      categories: [Polling, Politics, Foreign policy, Sanctions]
+      
+    - title: "Americans think the war with Iran will last months or more"
+      path: https://yougov.com/en-us/articles/54284-americans-think-war-with-iran-will-last-months-or-more-march-6-9-2026-economist-yougov-poll
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/original_images/Iran_GettyImages-2264730786_copy.jpeg
+      date: "2026-03-10T20:21:46.217098Z"
+      categories: [Polling, Politics, Iran, Foreign policy, Military]
+      
+    - title: "A majority of Americans approve of Kristi Noem's firing, but how many approve depends on how they're asked"
+      path: https://yougov.com/en-us/articles/54279-majority-approve-of-kristi-noem-firing-but-how-many-depends-on-how-asked
+      image: https://ygo-assets-websites-editorial-emea.yougov.net/original_images/GettyImages-2264826746.jpg
+      date: "2026-03-10T15:35:04.000Z"
+      categories: [Polling, Experiments, Politics]
+      
     - title: "Support for abolishing ICE reaches 50%"
       path: https://yougov.com/en-us/articles/54225-support-for-abolishing-ice-reaches-50-percent-february-27-march-2-2026-economist-yougov-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/original_images/ICE_GettyImages-2260106243_copy.jpeg
@@ -12,7 +42,7 @@ listing:
       path: https://today.yougov.com/politics/articles/54158-few-americans-support-usa-military-action-against-iran-majority-think-it-is-likely-february-20-23-2026-economist-yougov-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Iran_photo_GettyImages-2262302141_copy.original.jpg?pw=1200
       date: "2026-02-24T20:20:18.655331Z"
-      categories: [Polling, Politics, Foreign policy, Military]
+      categories: [Polling, Politics, Iran, Foreign policy, Military]
       
     - title: "Americans are divided about the state of race relations and how successful the civil rights movement has been"
       path: https://today.yougov.com/politics/articles/54159-americans-divided-about-state-of-race-relations-how-successful-civil-rights-movement-has-been-february-20-23-2026-economist-yougov-poll
@@ -54,7 +84,7 @@ listing:
       path: https://today.yougov.com/international/articles/53927-many-americans-support-iranian-protesters-but-few-want-us-military-involvement-in-iran
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2256429138.original.jpg?pw=1200
       date: "2026-01-21T16:05:43.995543Z"
-      categories: [Polling, Politics, Foreign policy, Military]
+      categories: [Polling, Politics, Iran, Foreign policy, Military]
       
     - title: "Most Americans remain opposed to seizing Greenland with military force"
       path: https://today.yougov.com/politics/articles/53897-most-americans-remain-opposed-to-seizing-greenland-with-military-force
@@ -92,7 +122,7 @@ listing:
       path: https://today.yougov.com/international/articles/53298-the-us-navy-deployment-near-venezuela-has-become-even-less-popular
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/GettyImages-2242705455.original.jpg?pw=1200
       date: "2025-10-31T14:18:58.196487Z"
-      categories: [Polling, Politics, Foreign policy, Military]
+      categories: [Polling, Politics, Venezuela, Foreign policy, Military]
     
     - title: "Is there a war in American cities?"
       path: https://today.yougov.com/politics/articles/53203-is-there-a-war-in-american-cities
@@ -134,7 +164,7 @@ listing:
       path: https://today.yougov.com/politics/articles/52958-most-americans-oppose-military-involvement-in-venezuela-maduro-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Navy_GettyImages-179438899_copy.original.jpg
       date: "2025-09-12"
-      categories: [Polling, Politics, Foreign policy, Military]
+      categories: [Polling, Politics, Venezuela, Foreign policy, Military]
       
     - title: "Concerns about Trump's age and health have grown since the start of his second term"
       path: https://today.yougov.com/politics/articles/52933-concerns-about-trumps-age-and-health-have-grown-since-the-start-of-his-second-term
@@ -188,7 +218,7 @@ listing:
       path: https://today.yougov.com/politics/articles/52453-most-americans-support-russia-sanctions-many-support-sanctioning-countries-buy-russian-oil-gas-poll
       image: https://ygo-assets-websites-editorial-emea.yougov.net/images/Russia_Ukraine_war_GettyImages-1459651125_copy.original.jpg
       date: "2025-06-27"
-      categories: [Polling, Politics, Foreign policy]
+      categories: [Polling, Politics, Foreign policy, Sanctions]
       
     - title: "Who would Americans like to see on their money?"
       path: https://today.yougov.com/consumer/articles/51975-who-would-americans-like-to-see-on-their-money
