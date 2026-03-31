@@ -19,7 +19,7 @@ about:
 
 ---
 
-Senior Data Scientist, [YouGov America](https://today.yougov.com/)
+Lead Data Scientist, [YouGov America](https://today.yougov.com/)
 
 Crossword Constructor, [Lil AVCX](https://avxwords.com/)
 
